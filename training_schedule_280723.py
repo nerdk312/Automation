@@ -17,58 +17,58 @@ weekly_exercises = {'Week 1':{'Monday':['Jump Barbell Back Squat(p)','Standing D
 
                             'Thursday':['Dumbbell Cossack Squat(s)','Seated Good Morning(p)', 'Dips(s)','Cable Hip Adduction(p)','Cable Hip Abduction(p)','Neck Upwards','Neck Downwards','Heavy Two Arm Hang','Arm Box Jump'],
 
-                            'Friday':['Iso Peterson Step Up','Two Leg Lying Hamstring Curl','Iso Reverse Squat','Iso Dumbbell Pullover','Iso Front Barbell ATG Split Squat','Iso Weighted Butterflys','Iso External Dumbbell Rotation','One Arm Hang','Two Leg Depth Drop'],
+                            'Friday':['Iso Peterson Step Up','One Leg Lying Hamstring Curl','Iso Reverse Squat','Iso Dumbbell Pullover','Iso Front Barbell ATG Split Squat','Iso Weighted Butterflys','Iso External Dumbbell Rotation','One Arm Hang','Two Leg Depth Drop'],
 
                             'Saturday':['One Leg Hip Thrust(p)','Incline Dumbbell Curl(s)','Incline Dumbbell Hammer Curl(p)','Farmer Walk(Single)','QL extension(p)','Lateral Dumbbell Raise(s)','Frontal Dumbbell Raise(p)','Face Pulls(s)','Light Two Arm Hang','Max Incline Backward Sprinting'],
 
-                            'Sunday':['Peterson Step Up(s)','Single Leg Nordic Hamstring Curl','Iso Front Barbell Cossack Squat','Iso Barbell Back Row', 'Iso French Press','Iso Hip External and Internal Rotation',
+                            'Sunday':['Peterson Step Up(s)','Two Leg Iso Seated Hamstring Curl','Iso Front Barbell Cossack Squat','Iso Barbell Back Row', 'Iso French Press','Iso Hip External and Internal Rotation',
                                        'Iso Two Legged Hip Thrust','Iso Barbell Curl','Iso Landmine Rotation','Iso Trap 3 Raise','Iso Dumbbell Fly','One Arm Hang','Standing Broad Jump']
                             },
                     
                     'Week 2':{'Monday':['Barbell Back Squat(s)','Barbell Push Press(p)','Dumbbell Bench Press(s)','Dumbbell Romanian Deadlift(p)','Dumbbell Wrist Flexion(s)','Dumbbell Wrist Curl(s)','One Leg Tibialis Raise(p)', 'Max Two Arm Hang','Two Legged Box Jump'],
                                
-                            'Tuesday':['Peterson Step Up(s)','Two Leg Seated Hamstring Curl','Iso Hack Squat','Iso Barbell Military Press','Iso Incline Dumbbell Press','Iso Dumbbell Sumo Deadlift', 'Iso Banded neck rotiation','Iso Single Leg Seated Calf Raise', 'One Arm Hang','Max Approach Jumping'],
+                            'Tuesday':['Peterson Step Up(s)','Single Leg Nordic Hamstring Curl','Iso Hack Squat','Iso Barbell Military Press','Iso Incline Dumbbell Press','Iso Dumbbell Sumo Deadlift', 'Iso Banded neck rotiation','Iso Single Leg Seated Calf Raise', 'One Arm Hang','Max Approach Jumping'],
 
                             'Wednesday':['One Leg Reverse Squat(s)','Pull Ups(s)','Dumbbell ATG Split Squat(p)','Cable Pancake(p)','ATG Dumbbell External Rotation(s)','Medium Two Arm Hang','Single Leg Hop'],
 
                             'Thursday':['Dumbbell Cossack Squat(p)','Seated Good Morning(s)', 'Dips(p)','Cable Hip Adduction(s)','Cable Hip Abduction(s)','Neck Upwards','Neck Downwards','Heavy Two Arm Hang','Full Range Arm Box Jump'],
 
-                            'Friday':['Iso Peterson Step Up','Two Leg Iso Nordic Hamstring Curl','Iso Hanging Leg Raise','Iso One Arm Dumbbell Row','Iso Back Barbell ATG Split Squat','Iso Weighted Pidgeon','Iso Powel Raise','One Arm Hang','Single Lateral Jump'],
+                            'Friday':['Iso Peterson Step Up','Two Leg Iso Lying Hamstring Curl','Iso Hanging Leg Raise','Iso One Arm Dumbbell Row','Iso Back Barbell ATG Split Squat','Iso Weighted Pidgeon','Iso Powel Raise','One Arm Hang','Single Lateral Jump'],
 
                             'Saturday':['One Leg Hip Thrust(s)','Incline Dumbbell Curl(p)','Incline Dumbbell Hammer Curl(s)','Farmer Walk(Double)','QL extension(s)','Lateral Dumbbell Raise(p)','Frontal Raise(s)','Face Pulls(p)','Light Two Arm Hang','Max Incline Side Sprinting'],
 
-                            'Sunday':['Peterson Step Up','One Leg Lying Hamstring Curl','Iso Back Barbell Cossack Squat','Iso Dumbbell Jefferson Curl', 'Iso Push ups','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation','One Arm Hang',
+                            'Sunday':['Peterson Step Up','One Leg Iso Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso Dumbbell Jefferson Curl', 'Iso Push ups','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation','One Arm Hang',
                                       'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Dumbbell Shrug','Iso Row Machine', 'One Arm Hang','Bounding']
                             },
                         
                         'Week 3':{'Monday':['Power Clean(p)','Barbell Military Press(s)','Incline Dumbbell Press(p)','Dumbbell Sumo Deadlift(s)', 'Banded neck rotiation(p)','Single Leg Seated Calf Raise(s)', 'Max Two Arm Hang','Sitting Box Jump'],
                             
-                            'Tuesday':['Peterson Step Up','One Leg Iso Nordic Hamstring Curl','Iso Reverse Nordic','Iso Incline Barbell Press','Iso Barbell Deadlift', 'Iso Banded Neck Sides','Iso Single Leg Standing Calf Raise', 'One Arm Hang','Max Speed Backwards Sprinting'],
+                            'Tuesday':['Peterson Step Up','Two Leg Iso Nordic Hamstring Curl','Iso Reverse Nordic','Iso Incline Barbell Press','Iso Barbell Deadlift', 'Iso Banded Neck Sides','Iso Single Leg Standing Calf Raise', 'One Arm Hang','Max Speed Backwards Sprinting'],
 
                             'Wednesday':['Hanging Leg Raise(p)','One Arm Dumbbell Row(p)','Back Barbell ATG Split Squat(s)','Weighted Pidgeon(s)','Powel Raise(p)','Medium Two Arm Hang','Sitting Single Leg Box Jump'],
 
                             'Thursday':['Back Barbell Cossack Squat(s)','Dumbbell Jefferson Curl(p)', 'Push ups(s)','Hip Adductor Machine(p)','Hip Abduction Machine(p)','Dumbbell Ulnar Deviation(s)','Dumbbell Radial Deviation(s)','Heavy Two Arm Hang','Arm Depth Box Jump'],
 
-                            'Friday':['Peterson Step Up','One Leg Seated Hamstring Curl','Iso Single Leg Monkey Foot','Iso Lat Pull Down Machine','Iso Pistol Squat','Iso 90-90 Hip Push Press','Iso Cable External Rotation','One Arm Hang','Single Leg Depth Drop'],
+                            'Friday':['Iso Peterson Step Up','One Leg Iso Lying Hamstring Curl','Iso Single Leg Monkey Foot','Iso Lat Pull Down Machine','Iso Pistol Squat','Iso 90-90 Hip Push Press','Iso Cable External Rotation','One Arm Hang','Single Leg Depth Drop'],
 
                             'Saturday':['Back Extension One Leg(p)','Reverse Curl(s)','Barbell Preacher Curl(s)','Overhead Walk(Single)','Ab Machine(s)','Dumbbell Shrug(p)','Row Machine(s)', 'Light Two Arm Hang','Max Incline Forward Sprinting'],
 
-                            'Sunday':['Iso Peterson Step Up','Two Leg Nordic Hamstring Curl','Iso Barbell Jefferson Curl', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Dumbbell Shrug','Iso Rear Delt Fly','One Arm Hang','Running Broad Jump']
+                            'Sunday':['Iso Peterson Step Up','Two Leg Seated Hamstring Curl','Iso Barbell Jefferson Curl', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Dumbbell Shrug','Iso Rear Delt Fly','One Arm Hang','Running Broad Jump']
                             },
                         
-                        'Week 4':{'Monday':['Hack Squat(s)','Barbell Split Jerk(p)','Incline Dumbbell Press(s)','Dumbbell Sumo Deadlift(p)', 'Banded Neck Rotation(s)','Single Leg Seated Calf Raise(p)', 'Heavy Two Arm Hang','Depth Jump'],
+                        'Week 4':{'Monday':['Hack Squat(s)','Barbell Split Jerk(p)','Incline Dumbbell Press(s)','Dumbbell Sumo Deadlift(p)', 'Banded Neck Rotation(s)','Single Leg Seated Calf Raise(p)', 'Max Two Arm Hang','Two Leg Depth Jump'],
                             
-                            'Tuesday':['Peterson Step Up','Single Leg Lying Hamstring Curl','Iso Barbell Front Squat','Iso Behind The Neck Press','Iso Barbell Bench Press','Iso Barbell Romanian Deadlift', 'Iso Barbell Wrist Flexion','Iso Barbell Wrist Curl','Iso Two Leg Dumbbell Tibialis Raise', 'One arm Hang','Max Speed Side Sprinting'],
+                            'Tuesday':['Peterson Step Up','One Leg Iso Nordic Hamstring Curl','Iso Barbell Front Squat','Iso Behind The Neck Press','Iso Barbell Bench Press','Iso Barbell Romanian Deadlift', 'Iso Barbell Wrist Flexion','Iso Barbell Wrist Curl','Iso Two Leg Dumbbell Tibialis Raise', 'One arm Hang','Max Speed Side Sprinting'],
 
-                            'Wednesday':['Hanging Leg Raise(s)','One Arm Dumbbell Row(s)','Back Barbell ATG Split Squat(p)','Weighted Pidgeon(p)','Powel Raise(s)','Heavy Two Arm Hang','Single Leg Depth Jump'],
+                            'Wednesday':['Hanging Leg Raise(s)','One Arm Dumbbell Row(s)','Back Barbell ATG Split Squat(p)','Weighted Pidgeon(p)','Powel Raise(s)','Medium Two Arm Hang','Single Leg Depth Jump'],
 
                             'Thursday':['Back Barbell Cossack Squat(p)','Dumbbell Jefferson Curl(s)', 'Push ups(p)','Hip Adductor Machine(s)','Hip Abduction Machine(s)','Dumbbell Ulnar Deviation(p)','Dumbbell Radial Deviation(p)','Heavy Two Arm Hang','Single Arm Box Jump'],
 
-                            'Friday':['Peterson Step Up','Single Leg Nordic Hamstring Curl','Iso Reverse Squat','Iso Dumbbell Pullover','Iso Front Barbell ATG Split Squat','Iso Weighted Butterflys','Iso External Dumbbell Rotation','One Arm Hang','PJF Lateral Hop'],
+                            'Friday':['Iso Peterson Step Up','Two Leg Lying Hamstring Curl','Iso Reverse Squat','Iso Dumbbell Pullover','Iso Front Barbell ATG Split Squat','Iso Weighted Butterflys','Iso External Dumbbell Rotation','One Arm Hang','PJF Lateral Hop'],
 
-                            'Saturday':['Back Extension One Leg(s)','Reverse Curl(p)','Barbell Preacher Curl(p)','Overhead Walk(Double)','Ab Machine(p)','Front Barbell Shrug(s)','Back Barbell Shrug(s)','Row Machine(p)','Heavy Two Arm Hang','Max Approach Jumping'],
+                            'Saturday':['Back Extension One Leg(s)','Reverse Curl(p)','Barbell Preacher Curl(p)','Overhead Walk(Double)','Ab Machine(p)','Front Barbell Shrug(s)','Back Barbell Shrug(s)','Row Machine(p)','Light Two Arm Hang','Max Approach Jumping'],
 
-                            'Sunday':['Peterson Step Up','Single Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso Dumbbell Jefferson Curl', 'Iso Push ups','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
+                            'Sunday':['Peterson Step Up','One Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso Dumbbell Jefferson Curl', 'Iso Push ups','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
                                       'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Dumbbell Shrug','Iso Row Machine', 'One Arm Hang','Alternate Bounding']
                             },
                         
@@ -154,7 +154,7 @@ with open('workout_log.txt', 'r') as file:
 #print(content)
 content = content.lower() # Remove capitalization
 
-exercise_day = weekly_exercises['Week 1']['Friday']
+exercise_day = weekly_exercises['Week 5']['Sunday']
 recent_exercises = []
 for exercise in exercise_day:
 # Define the target string and the regex pattern
