@@ -188,6 +188,11 @@ for exercise in exercise_day:
         last_occurence = matches[-1]
         recent_exercises.append(last_occurence)
 
+#print(recent_exercises)
 
-import ipdb; ipdb.set_trace()
- 
+
+# Using join to concatenate the strings with newline character
+result = "\n".join(recent_exercises)
+
+# Printing the result
+print(result)
