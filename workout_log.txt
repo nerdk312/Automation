@@ -34,7 +34,7 @@ Sled: 78.75kg x 3
 Tricep extension: 5kg x 50 x 3
 Barbell Military Press(s) 50kgx4, 60kgx4x2
 Barbell Romanian Deadlift(s) 60kgx4, 65kgx4
-Dumbbell Fly(p) 7kgx4x3 
+Dumbbell Fly(p) 7kgx4x3
 Dumbbell Wrist Flexion(s) 10kgx4x3
 Dumbbell Wrist Curl(s) 10kgx4x3
 
@@ -162,7 +162,7 @@ Back Extension(s) 30kgx4, 35kgx4x2
 Chin Ups(p) 5kgx4x3
 Side Overhead Walk(Single) 30kgx30secx3
 Dumbbell Shrug(s) 34kgx4x4 [difficult]
-Rear Delt Fly(s) 45kgx4x4 [should be p] 
+Rear Delt Fly(s) 45kgx4x4 [should be p]
 Heavy Two Arm Hang 30kgx20secsx4
 Max Effort Jump 45inchx4x2, 46inchx4
 
@@ -306,7 +306,7 @@ Two Legged Box Jump 39inchx4, 42inchx4
 Week2 - Tuesday 080823
 Side Sled 56.25kgx3
 Tricep extension 5kgx50x3
-Peterson Step Up  
+Peterson Step Up
 Iso Barbell Front Squat 42.5kgx20secs
 Iso Barbell Military Press 40kgx25secs
 Iso Incline Dumbbell Press 22kgx25secs
@@ -595,7 +595,7 @@ Iso Dumbbell Bench Press 30kgx20secs
 Iso Dumbbell Romanian Deadlift 30kgx20secs
 Iso Dumbbell Wrist Flexion 9kgx25secs
 Iso Dumbbell Wrist Curl 9kgx25secs
-Iso Two Leg Tibialis Raise 30kgx25secs 
+Iso Two Leg Tibialis Raise 30kgx25secs
 One Arm Hang -18kg+2.5kgx11secsx4
 Forward Sprinting 24.1kph at 5incline, 24.1kph at 5.5incline, 24.1kph at 6incline,24.1kph at 6.5incline, 24.1kph at 7.0 incline
 
@@ -607,7 +607,7 @@ Reverse Squat(p) 14kgx4x3
 Dumbbell Pullover(p) 14kgx4x3
 Front Barbell ATG Split Squat(s) 32.5kgx4x2, 35kgx4, 37.5kgx4
 Weighted Butterflys(s) 28kgx4x2, 30kgx4
-ATG External Dumbbell Rotation(p) 
+ATG External Dumbbell Rotation(p)
 Heavy Two Arm Hang 32.5kgx15secsx4
 Standing Single Leg Box Jump 36inchx4x3
 
@@ -615,7 +615,7 @@ Standing Single Leg Box Jump 36inchx4x3
 Week5 - Thursday 310823
 Sled 87.25kgx3
 Tricep extension 5kgx50x3
-Front Barbell Cossack Squat(s) 35kgx4x3 
+Front Barbell Cossack Squat(s) 35kgx4x3
 Penlay Row(p) 40kgx4, 60kgx4x2
 French Press(s) 25kgx4x3
 Hip External and Internal Rotation(p) 10kgx4, 12kgx4x2
@@ -631,7 +631,7 @@ Peterson Step Up 22.5kgx4redx4
 Lying Hamstring Curl 51.1kgx4
 Iso One Leg Reverse Squat 26kgx15secs
 Iso Pull Ups 20kgx20secs
-Iso Dumbbell ATG Split Squat 18kgx25secs 
+Iso Dumbbell ATG Split Squat 18kgx25secs
 Iso Cable Pancake 26kgx20secs
 Iso ATG Dumbbell External Rotation 7kgx25secs
 One Arm Hang -18kg+2.5kgx11secsx4
@@ -644,7 +644,7 @@ Tricep extension 5kgx50x3
 Hip Thrust(p) 70kgx4x3
 Barbell Curl(s) 40kgx4, 42.5kgx4, 45kgx4
 Side Farmer Walk(Single) 30kgx30secs, 32kgx30secs, 34kgx30secs
-Side Raise(s) 34kgx4x3 
+Side Raise(s) 34kgx4x3
 Trap 3 Raise(p) 5kgx4x3
 Dumbbell Fly(s) 12kgx4x3 [nearly injured during 14kg]
 Heavy Two Arm Hang 32.5kgx15secsx4
@@ -673,7 +673,7 @@ One Arm Hang -18kg+3.75kgx10secsx4
 Week6 Monday 040923
 Sled 88.75kgx3
 Tricep extension 5kgx50x3
-Barbell Front Squat(s) 65kgx4, 75kgx4, 82.5kgx4 
+Barbell Front Squat(s) 65kgx4, 75kgx4, 82.5kgx4
 Barbell Bench Press(s) 75kgx4, 85kgx4, 87.5kgx4
 Barbell Romanian Deadlift(p) 50kgx4x3
 Barbell Wrist Flexion(s) 22.5kgx4x2, 25kgx4
@@ -685,7 +685,7 @@ Two Leg Dumbbell Tibialis Raise(p) 26kgx4x3
 Week6 - Tuesday 050923
 Side Sled 61.25kgx3
 Tricep extension 5kgx50x3
-Peterson Step Up 4redx25kgx4 
+Peterson Step Up 4redx25kgx4
 Seated Hamstring Curl 61kgx4
 Iso Reverse Nordic 0kgx25secs
 Iso Incline Barbell Press 50kgx25secs
@@ -722,7 +722,7 @@ Full Range Arm Box Jump' 30inchx4x3
 Week6 - Friday 080923
 Side Sled 61.25kgx3
 Tricep extension 5kgx50x3
-Peterson Step Up 4redx25kgx4 
+Peterson Step Up 4redx25kgx4
 Iso Single Leg Monkey Foot 8kgx25secs
 Iso Lat Pull Down Machine 47kgx20secs [45kg+5lb]
 Iso Pistol Squat 2kgx20secs [difficult]
@@ -747,7 +747,7 @@ Depth Drop 30inchx4, 33inchx4x2
 Week6 Sunday 100923
 Side Sled 62.5kgx3
 Tricep extension 5kgx50x3
-Peterson Step Up 4redx27.5kgx4 
+Peterson Step Up 4redx27.5kgx4
 Peterson Step Up Iso 4redx10kgx20secs [ difficult to balance]
 Lying Hamstring Curl 54kgx4
 Iso Tricep Extension 20kgx25secs
@@ -756,7 +756,7 @@ Iso Chin Ups 20kgx25secs [difficult, look at lowering time and increasing weight
 Iso Dumbbell Shrug 32kgx20secs
 Iso Rear Delt Fly 6kgx25secs [increase ROM, straight arm]
 One Arm Hang -14kgx10secsx4
-Bounding 5hops (each side of turf)x 3 
+Bounding 5hops (each side of turf)x 3
 
 
 Week7 Monday 110923
@@ -794,7 +794,7 @@ Pistol Squat(s) 3kgx4, 4kgx4,5kgx4
 90-90 Hip Push Press(s) 8kgx4,10kgx4,12kgx4
 Cable External Rotation(p) 6kgx4x3
 Heavy Two Arm Hang 16.25kgx25secs
-Sitting Single Leg Box Jump 12inchto33inchx4,12inchto36inchx3 
+Sitting Single Leg Box Jump 12inchto33inchx4,12inchto36inchx3
 
 Week7 Thursday 140923
 Sled 90kgx3
@@ -802,7 +802,7 @@ Tricep extension 5kgx50x3
 Peterson Step Up(p) 4redx20kgx4x3
 Barbell Jefferson Curl(p) 40kgx4x3
 Tricep Extension(s) 30kgx4, 32.5kgx4,35kgx4
-Lateral Step Up(p) 26kg to 36inchx4, 28kg to 24inchx4,30kg to 24inchx4 
+Lateral Step Up(p) 26kg to 36inchx4, 28kg to 24inchx4,30kg to 24inchx4
 Wrist Rotation(s) 10kgx4, 12kgx4x2
 Heavy Two Arm Hang 15kgx25secsx4
 Arm Depth Box Jump 21inch to 21 inch x3
@@ -833,7 +833,7 @@ Dumbbell Shrug(p) 24kgx4x3
 Rear Delt Fly(s) 6kgx4x3
 Heavy Two Arm Hang 15kgx25secsx4
 Single Leg Depth Drop 15inchx4,18inchx4x2
- 
+
 
 Week7 Sunday 170923
 Side Sled 63.75kgx3
@@ -848,7 +848,7 @@ Iso Hip Abduction Machine 61.3kgx20secs
 Iso Dumbbell Ulnar Deviation 12kgx20secs
 Iso Dumbbell Radial Deviation 12kgx20secs
 Iso Back Extension One Leg 12kgx20secs
-Iso Reverse Curl 22.5kgx20secs 
+Iso Reverse Curl 22.5kgx20secs
 Iso Ab Machine 32kgx20secs [middle and end position[
 Iso Dumbbell Shrug 32kgx25secs
 Iso Row Machine 26.25kgx20secs
@@ -930,7 +930,7 @@ Week8 Saturday 230923
 Sled 91.25kgx3
 Tricep extension 5kgx50x3
 Back Extension(s) 35kgx4,37.5kgx4,40kgx4
-Chin Ups(p) 10kgx4x4 
+Chin Ups(p) 10kgx4x4
 Side Overhead Walk(Double) 30kgx30secx3 [difficult to lift and carry]
 Dumbbell Shrug(s) 34kgx4,36kgx4,38kgx4
 Rear Delt Fly(p) 6gx4x3
@@ -948,7 +948,7 @@ Iso Dips 2.5kgx20secs
 Iso Cable Hip Adduction 12kgx25secs
 Iso Cable Hip Abduction 8kgx25secs
 Iso One Leg Hip Thrust 45kgx20se
-Iso Incline Dumbbell Curl 18kgx20secs 
+Iso Incline Dumbbell Curl 18kgx20secs
 Iso Incline Dumbbell Hammer Curl 20kgx20secs
 Iso QL extension 32kgx20secs
 Iso Lateral Dumbbell Raise 9kgx20secs
@@ -992,7 +992,7 @@ dumbbell atg split squat(s) 22kgx4x4 [ difficult]
 cable pancake(s) 26kgx4x3 [check Form]
 atg dumbbell external rotation(p) 8kgx4x3
 heavy two arm hang 23.75kgx10secsx4[not full rom]
-Standing single leg box jump 33inchx4,36inchx4, 39inchx2 [difficult] 
+Standing single leg box jump 33inchx4,36inchx4, 39inchx2 [difficult]
 
 
 Week 1 Thursday 280923
@@ -1012,7 +1012,7 @@ Tricep extension 5kgx50x1
 peterson step up 32.5kgx4
 lying hamstring curl 56.2kgx4
 iso reverse squat 32kgx10secs [difficult to have grip on feet]
-iso dumbbell pullover 20kgx20secs 
+iso dumbbell pullover 20kgx20secs
 iso front barbell atg split squat 32.5kgx20secs
 iso weighted butterflys 32kgx20sec
 iso external dumbbell rotation 5kgx25secs
@@ -1126,7 +1126,7 @@ lateral dumbbell raise(s) 12kgx4x2
 frontal raise(s) 10kgx4x2
 face pulls(p) 12kgx4x3
 heavy two arm hang 13.75kgx10secsx4
-Max Incline Forward Sprinting - 15inclinex15speed,15inclinex15.5speed,15inclinex16speed, 
+Max Incline Forward Sprinting - 15inclinex15speed,15inclinex15.5speed,15inclinex16speed,
 
 Week 2 Sunday 081023
 Side Sled 67.5kgx2
@@ -1156,7 +1156,7 @@ Squat Clean(p) 50kgx4x2
 Barbell Military Press(s) 60kgx4, 65kgx4x2
 Incline Dumbbell Press(p) 20kgx4x2
 Dumbbell Sumo Deadlift(s) 28kgx4,30kgx4
-Banded neck rotiation(p) 
+Banded neck rotiation(p)
 Single Leg Seated Calf Raise(s) 81.3kgx4x2
 Heavy Two Arm Hang 33.75kgx10secsx4
 Sitting Box Jump 42inchx4
@@ -1247,7 +1247,7 @@ Running Broad Jump 2.5linesx4x2
 Week 4 Monday 161023
 Sled 96.25kgx2
 Tricep extension 5kgx30x1
-hack squat(s) 90kgx4, 100kgx4 
+hack squat(s) 90kgx4, 100kgx4
 barbell split jerk(p) 60kgx4, 67.5kgx4
 incline dumbbell press(s) 36kgx4, 38kgx4
 dumbbell sumo deadlift(p) 22kgx4x2
@@ -1261,7 +1261,7 @@ Week 4 Tuesday 171023
 Side Sled 68.75kgx2
 Tricep extension 5kgx30x1
 peterson step up 30kgx4
-iso barbell front squat 45kgx25secs 
+iso barbell front squat 45kgx25secs
 iso behind the neck press 45kgx25secs
 iso barbell bench press 65kgx25secs
 iso barbell romanian deadlift 52.5kgx25secs
@@ -1272,14 +1272,14 @@ one arm hang -9kgx10secsx4
 Max Speed Side Sprinting 8kphx10secs,8.5kphx10secs,9kphx10secs
 
 
-Week 4 Wednesday 181023 
+Week 4 Wednesday 181023
 - Rest day in London for Bahram's graduation
 
 Week 4 Thursday 191023 - Did Wednesdays routine
 Sled 96.25kgx2
 Tricep extension 5kgx30x1
 hanging leg raise(s) 0kgx4x2 [full rom]
-one arm dumbbell row(s) 36kgx4, 40kgx4 
+one arm dumbbell row(s) 36kgx4, 40kgx4
 powel raise(s) 10kgx4, 12kgx4
 
 Week 4 Friday 201023
@@ -1386,8 +1386,8 @@ arm box jump 33inchx4, 36inchx4
 Week 5 Friday 271023
 Side Sled 70kgx2
 Tricep extension 5kgx25x1
-peterson step up 32.5kgx4 
-iso one leg reverse squat 21.6kg20secs 
+peterson step up 32.5kgx4
+iso one leg reverse squat 21.6kg20secs
 iso pull ups 21.25kgx20secs
 iso dumbbell atg split squat 40kg20secs
 iso cable pancake 26kgx25secs
@@ -1415,14 +1415,14 @@ heavy two arm hang 33.75kgx15secsx4
 Week 5 Sunday 291023
 Side Sled 71.5kgx2
 Tricep extension 8kgx10
-peterson step up 32.5kgx4 
+peterson step up 32.5kgx4
 single leg nordic hamstring curl blackbandx20inchx4
 iso dumbbell cossack squat 30kgx25secs
 iso seated good morning 45kgx25secs
 iso dips 2.5kgx25secs
 iso cable hip adduction 10kgx20secs
 iso cable hip abduction 8kgx25secs
-iso one leg hip thrust 45kgx20secs 
+iso one leg hip thrust 45kgx20secs
 iso incline dumbbell curl 18kgx25secs
 iso incline dumbbell hammer curl 20kgx25secs
 iso lateral dumbbell raise 9kgx25secs
@@ -1436,9 +1436,9 @@ Iso Neck Downwards 5kgx20secs
 Week 6 Monday 301023
 Sled 98.75kgx2
 Tricep extension 8kgx8
-barbell front squat(s) 80kgx4,85kgx4 [difficult, regress] 
+barbell front squat(s) 80kgx4,85kgx4 [difficult, regress]
 Behind The Neck Push Press(p) 50kgx4, 52,5kgx4
-barbell bench press(s) 85kgx4, 90kgx4 
+barbell bench press(s) 85kgx4, 90kgx4
 barbell romanian deadlift(p) 50kgx4x2
 barbell wrist flexion(s) 22.5kgx4, 25kgx4
 barbell wrist flexion(s) 22.5kgx4, 25kgx4
@@ -1449,10 +1449,10 @@ two legged box jump 40inchx4, 42inchx4 [step before jumping]
 Week 6 Tuesday 311023
 Side Sled 71.5kgx2
 Tricep extension 8kgx4x2
-peterson step up 32.5kgx4 
-two leg seated hamstring curl 69kgx4 
-iso reverse nordic 0kgx20secs [increase rom] 
-iso incline barbell press 52.5kgx25secs 
+peterson step up 32.5kgx4
+two leg seated hamstring curl 69kgx4
+iso reverse nordic 0kgx20secs [increase rom]
+iso incline barbell press 52.5kgx25secs
 iso barbell deadlift 52.5kgx25secs
 iso single leg standing calf raise 70kgx20secs
 one arm hang -9kg+1.25kgx10secsx4
@@ -1475,7 +1475,7 @@ Sled 98.75kgx2
 Tricep extension 8kgx4x2
 front barbell cossack squat(p) 30kgx4x2
 barbell back row(s) 65kgx4, 70kgx4
-french press(p) 25kgx4x2 
+french press(p) 25kgx4x2
 hip external and internal rotation(s) 12kgx4, 14kgx4
 barbell shoulder rotation(p) 5kgx4x2
 heavy two arm hang 35kgx15secsx4
@@ -1499,7 +1499,7 @@ single lateral jump 2linesx4x2
 Week 6 Saturday 041123
 Sled 98.75kgx2
 Tricep extension 8kgx4x2
-Two Legged hip thrust(s) 120kgx4, 125kgx4 
+Two Legged hip thrust(s) 120kgx4, 125kgx4
 barbell curl(p) 35kgx4x2
 side farmer walk(double) 36kgx30secs, 40kgx30secs[difficult]
 landmine rotation(p) 47.5kgx4x2
@@ -1528,8 +1528,8 @@ Week 7 Monday 061123
 Sled 100kgx2
 Tricep extension 8kgx4x2
 squat clean(p) 50kgx4, 52.5kgx4'
-landmine split jerk(p) 47.5kgx4,48.75kgx4' 
-incline barbell press(p) 60kgx4x2 
+landmine split jerk(p) 47.5kgx4,48.75kgx4'
+incline barbell press(p) 60kgx4x2
 barbell deficit deadlift(s) 70kgx4x2 [difficult]
 banded neck sides(p) greenbandx4x3
 single leg standing calf raise(s)  60kgx4,62.5kgx4
@@ -1554,11 +1554,11 @@ Max Speed Backwards Sprinting 16kphx10secs, 16.3kphx10secs, 16.5kphx10secs
 Week 7 Wednesday 081123
 Sled 100kgx2
 Tricep extension 8kgx4x2
-single leg monkey foot(p) 8kgx4x2 
-lat pull down machine(p) 32kgx4x2 
+single leg monkey foot(p) 8kgx4x2
+lat pull down machine(p) 32kgx4x2
 pistol squat(s) 6kgx4,7kgx4
 90-90 hip push press(s) 14kgx4x2
-cable external rotation(p) 6kgx4x2 
+cable external rotation(p) 6kgx4x2
 heavy two arm hang 41.25kgx10secsx4
 sitting single leg box jump 12inch to 36inchx4x2
 
@@ -1568,16 +1568,16 @@ Sled 100kgx2
 Tricep extension 8kgx4x2
 peterson step up(p) 4redx32.5kgx4x2
 barbell jefferson curl(p) 40kgx4x3
-tricep extension(s) 37.5kgx4 
+tricep extension(s) 37.5kgx4
 lateral step up(p) 32kg to 24inchx4, 34kg to 24inchx4
-wrist rotation(s) 12kgx4, 14kgx4, 
+wrist rotation(s) 12kgx4, 14kgx4,
 heavy two arm hang 23.75kgx15secsx4
 
 Week 7 Friday 101123
 Side Sled 72.5kgx2
 Tricep extension 8kgx4x2
 peterson step up 32.5kgx4
-iso hanging leg raise 0kgx15secs[full rom] 
+iso hanging leg raise 0kgx15secs[full rom]
 iso one arm dumbbell row 30kgx25secs
 iso back barbell atg split squat 32.5kgx25secs
 iso weighted pidgeon 28kgx20secs
@@ -1590,11 +1590,11 @@ Week 7 Saturday 111123
 Sled 100kgx2
 Tricep extension 8kgx4,10kgx4
 back extension(p) 20kgx4x2
-chin ups(s) 22.5kgx4, 23.75kgx4 
-side overhead walk(single) 34kgx30secs, 36kgx30secs 
-dumbbell shrug(p) 24kgx4x2 
-rear delt fly(s) 7kgx4x2 [difficult] 
-heavy two arm hang 15kgx25secsx4', 
+chin ups(s) 22.5kgx4, 23.75kgx4
+side overhead walk(single) 34kgx30secs, 36kgx30secs
+dumbbell shrug(p) 24kgx4x2
+rear delt fly(s) 7kgx4x2 [difficult]
+heavy two arm hang 15kgx25secsx4',
 max incline forward sprinting  15inclinex16speed,15inclinex17speed,18inclinex16speed
 
 
@@ -1613,7 +1613,7 @@ iso dumbbell radial deviation 14kgx25secs
 iso back extension one leg 16kgx20secs
 iso reverse curl 30kgx20secs
 iso barbell preacher curl 30kgx25secs
-iso ab machine 33kgx25secs 
+iso ab machine 33kgx25secs
 iso dumbbell shrug 38kgx25sec
 iso row machine 27.5kgx25secs
 one arm hang -9kg+2.5kgx10secsx4'
@@ -1625,7 +1625,7 @@ Week 8 Monday 131123
 Sled 101.25kgx2
 Tricep extension 10kgx4x2
 reverse nordic(s) 0kgx4x2
-landmine split jerk(p) 48.75kgx4,50kgx4 
+landmine split jerk(p) 48.75kgx4,50kgx4
 incline barbell press(s) 75kgx4, 80kgx4 [difficult]
 barbell deadlift(s) 70kgx4x2 [full ROM]
 banded neck sides(s) Greenbandx4x2
@@ -1653,7 +1653,7 @@ max speed side sprinting 9kphx10secs,9.5kphx10secs,10kphx10secs'
 Week 8 Wednesday 151123
 Sled 101.25kgx2
 Tricep extension 10kgx4x2
-single leg monkey foot(s) 16kgx4, 20kgx3 [aim to hold at top] 
+single leg monkey foot(s) 16kgx4, 20kgx3 [aim to hold at top]
 lat pull down machine(s) 42kgx4, 45kgx4
 pistol squat(p) 5kgx4x2 [difficult]
 90-90 hip push press(p) 20kgx4x2
@@ -1665,7 +1665,7 @@ Week 8 Thursday 161123
 Sled 101.25kgx2
 Tricep extension 10kgx4x2
 peterson step up(s) 35kgx4
-barbell jefferson curl(s) 70kgx4, 72.5kgx4 
+barbell jefferson curl(s) 70kgx4, 72.5kgx4
 muscle up(p) 0kg [failed attempts]
 lateral step up(s) 36kgxto24inchx4, 38kgxto24inchx4
 wrist rotation(p) 8kgx4x2
@@ -1675,7 +1675,7 @@ Week 8 Friday 171123
 Side Sled 73.75kgx2
 Tricep extension 10kgx4x2
 peterson step up(s) 35kgx4
-single leg nordic hamstring curl greenbandx12inchx4 
+single leg nordic hamstring curl greenbandx12inchx4
 iso one leg reverse squat 21.6kg25secs
 iso pull ups 21.25kgx25secs
 iso dumbbell atg split squat 40kg25secs
@@ -1709,7 +1709,7 @@ iso cable hip adduction 10kgx25secs
 iso cable hip abduction 10kgx20secs
 iso neck upwards 5kgx25secs
 iso neck downwards 5kgx25secs
-iso one leg hip thrust 45kgx25secs 
+iso one leg hip thrust 45kgx25secs
 iso incline dumbbell curl 20kgx20secs
 iso incline dumbbell hammer curl 22kgx20secs [difficult]
 iso ql extension 32kgx25secs
@@ -1720,12 +1720,12 @@ one arm hang -9kg+3.75kgx8secsx4
 alternate bounding 5hopsx2 [each leg]
 
 
- 
+
 Week 1 Monday 201123
 Sled 102,5kgx2
 Tricep extension 10kgx4,12kgx4
 jump barbell back squat(p) 55kgx4, 57.5kgx4
-Standing Dumbbell Press(s) 28kgx4, 30kgx2 
+Standing Dumbbell Press(s) 28kgx4, 30kgx2
 Max Two Arm Hang 43.75kgx10secsx4 [ difficult to jump]
 dumbbell bench press(p) 22kgx4x2
 dumbbell romanian deadlift(s) 30kgx4, 32kgx4 [ increase rom, straigthen legs]
@@ -1756,7 +1756,7 @@ Week 1 Wednesday 221123
 Sled 102,5kgx2
 Tricep extension 10kgx4,12kgx4
 one leg reverse squat(p) 17kgx4x2
-pull ups(p) 10kgx4x2 
+pull ups(p) 10kgx4x2
 dumbbell atg split squat(s) 44kgx4,52kgx4 [difficult regress]
 cable pancake(s) 26kgx4,28kgx4
 atg dumbbell external rotation(p) 8kgx4x2
@@ -1803,14 +1803,14 @@ lateral dumbbell raise(s) 12kgx4, 14kgx3 [ difficult]
 Frontal Dumbbell Raise(p) 6kgx4x2
 face pulls(s) 23.6kgx4, 26.1kgx4
 Light Two Arm Hang 15kgx25secsx4
-max incline backward sprinting 9kphx10secs, 10kphx10secs, 10.5phx10secs 
+max incline backward sprinting 9kphx10secs, 10kphx10secs, 10.5phx10secs
 
 
 
 Week 1 Sunday 261123
 Side Sled 76.25kgx2
 Tricep extension 12kgx4x2
-peterson step up(s) 35kgx4 
+peterson step up(s) 35kgx4
 single leg nordic hamstring curl greenbandx12inchx4 [regress to higher box]
 iso front barbell cossack squat 30kgx25secs
 iso barbell back row 45kgx25secs
@@ -1825,11 +1825,107 @@ one arm hang -9kg+3.75kgx10secsx4
 Iso Two Legged Hip Thrust 77.5kgx20secs
 
 
+Week 2 Monday 271123
+Front Sled 103.75
+Tricep Pushdown 12kgx4x2
+barbell back squat(s) 85kgx4,90kgx4
+barbell push press(p) 60kgx4,70kgx4
+dumbbell bench press(s) 36kgx4,38kgx4 [difficult]
+dumbbell romanian deadlift(p) 20kgx4x3
+dumbbell wrist flexion(s) 12kgx4, 16kgx2
+dumbbell wrist curl(s) 12kgx4,16kgx4
+one leg tibialis raise(p) 20kgx3x3
+max two arm hang 45kgx10secsx4 [ difficult to jump]
+two legged box jump 43inchx4x2 [step before jumping]
 
 
 
+Week 2-Tuesday 281123
+side sled 76.25kgx2
+tricep pushdown 12kgx4x2
+peterson step up(s) 37.5kgx4
+single leg seated hamstring curl 32kgx4
+iso hack squat 27.5kgx20secs
+iso barbell military press 47.5kgx20secs
+iso incline dumbbell press 26kgx25secs
+iso dumbbell sumo deadlift 32kgx25secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 77.3kgx25secs
+one arm hang -5kgx8secsx4
+max approach jumping 46inchx4x2
 
 
+Week 2-Wednesday - 291123
+front sled 103.75
+tricep pushdown 12kgx4x2
+one leg reverse squat(s) 23kgx4x2
+pull ups(s) 20kgx4
+dumbbell atg split squat(p) 20kgx4x2
+cable pancake(p) 21kgx4x2
+atg dumbbell external rotation(s) 14kgx4x2 [ focus on using 14kg with a slow eccentric
+medium two arm hang 23.75kgx20secsx4
+single leg hop 27.5kgx4x2
+
+
+Week 2-Thursday-301123
+front sled 103.75
+tricep pushdown 12kgx4x2
+dumbbell cossack squat(p) 20kgx4x2
+seated good morning(s) 65kgx4,72.5kgx4
+dips(p) 0kgx4x2 [ring dips-difficult[
+cable hip adduction(s) 12kgx4x2 [difficult]
+cable hip abduction(s) 10kgx4x2
+neck upwards 10kgx20secs
+neck downwards 10kgx20secs
+heavy two arm hang 35kgx25secsx4
+full range arm box jump 36inchx4x2
+
+Week 2-Friday-011223
+side sled 76.25kgx2
+tricep pushdown 12kgx4x2
+iso peterson step up 22.5kgx25secs [increase rom, balance difficult]
+iso hanging leg raise 0kgx20secs
+iso one arm dumbbell row 32kgx20secs
+iso back barbell atg split squat 35kgx20secs
+iso weighted pidgeon 28kgx20secs
+iso powel raise 9kgx20secs [difficult on right arm]
+one arm hang -5kgx8secsx4
+single lateral jump 2linesx4x2
+
+
+Week 2-Saturday-021223
+front sled 103.75
+tricep pushdown 12kgx4x2
+one leg hip thrust(s) 50kgx4x2
+incline dumbbell curl(p) 12kgx4x2
+incline dumbbell hammer curl(s) 20kgx4
+farmer walk(double) 36kgx30secs, 40kgx30secs[difficult]
+ql extension(s) 36kgx4x2
+lateral dumbbell raise(p) 7kgx4x3
+frontal raise(s) 10kgx4x2[slow eccentric]
+face pulls(p) 12kgx4x3
+light two arm hang 15kgx25secsx4
+
+
+Week 2-Sunday-031223
+side sled 76.25kgx2
+tricep pushdown 12kgx4x2
+peterson step up(s) 37.5kgx4
+iso back barbell cossack squat 35kgx20secs
+iso dumbbell jefferson curl 34kgx20secs
+iso push ups 20kgx25secs
+iso hip adductor machine 62kgx25secs
+iso hip abduction machine 62kgx25secs
+iso dumbbell ulnar deviation 16kgx20secs
+iso dumbbell radial deviation 16kgx20secs
+iso back extension one leg 16kgx25secs
+iso reverse curl 30kgx20secs
+iso barbell preacher curl 35kgx20secs
+iso ab machine 33kgx25secs
+iso dumbbell shrug 40kgx20sec
+iso row machine 30kgx20secs
+one arm hang -5kgx8secsx4
+bounding 5hopsx2 [each leg]
 
 
 Week 3 Monday 041223
@@ -1841,13 +1937,12 @@ single leg seated calf raise(s) 84.6kgx4x2 [difficult for full ROM]
 max two arm hang 45kgx10secsx4 [ difficult to jump]
 sitting box jump 42inchx4
 
-
 Week 3 Tuesday 051223
 Side Sled 76.25kgx2
 Tricep extension 12kgx4,14kgx4
 peterson step up(s) 37.5kgx4
 Single Leg Nordic Hamstring Curl Greenbandx24inchx4 [lower to 21 inch next time]
-iso reverse nordic 0kgx20secs [difficult] 
+iso reverse nordic 0kgx20secs [difficult]
 iso incline barbell press 55.5kgx20secs
 iso barbell deadlift 55kgx20secs
 iso banded neck sides greenbandx4
@@ -1855,17 +1950,2806 @@ iso single leg standing calf raise 70kgx25secs
 one arm hang -5kgx8secsx4
 max speed backwards sprinting 16.3kphx10secs, 16.5kphx10secs, 17kphx10secs
 
-
 Week 3 Wednesday 061223
 Sled 105kgx2
 Tricep extension 12kgx4,14kgx4
 hanging leg raise(p) 2kgx4x2 [full rom]'
 back barbell atg split squat(s) 42.5kgx4,47.5kgx4
 weighted pidgeon(s) 18kgx4,  20kgx4
-medium two arm hang 23.75kgx20secsx4 [ progress] 
+medium two arm hang 23.75kgx20secsx4 [ progress]
 sitting single leg box jump 12inch to 36inchx4,12inch to 39inchx4
 
+Week 3-Thursday 071223
+front sled 105kgx2
+tricep pushdown 12kgx4,14kgx4
+back barbell cossack squat(s) 42.5kgx4, 47.5kgx4
+dumbbell jefferson curl(p) 20kgx4x2
+push ups(s) 35kgx4, 40kgx4
+hip adductor machine(p) 68.3kgx4x2
+hip abduction machine(p) 68.3kgx4x2
+dumbbell ulnar deviation(s) 16kgx4x2
+dumbbell radial deviation(s) 16kgx4x2
+heavy two arm hang 35kgx25secsx4
 
+
+Week 3-Friday 081223
+side sled 76.25kgx2
+tricep pushdown 12kgx4,14kgx4
+Two Leg Seated Hamstring Curl 70kgx1
+iso peterson step up 22.5kgx25secs [increase rom, balance difficult]
+iso single leg monkey foot 12kgx20secs
+iso lat pull down machine 52kgx20secs
+iso pistol squat 0kgx20secs
+iso 90-90 hip push press 10kgx20secs
+iso cable external rotation 8kgx20secs [increase ROM]
+one arm hang -5kgx8secsx4
+single leg depth drop 27inchx4
+
+
+
+Week 3-Saturday 091223
+front sled 105kgx2
+Barbell Preacher Curl(s)
+tricep pushdown 12kgx4,14kgx4
+back extension one leg(p) 10kgx4x2
+reverse curl(s) 30kgx4x2 [failed and injured one hand]
+overhead walk(single) 36kgx30secs, 40kgx30secs[difficult[
+ab machine(s) 50kgx4, 52.5kgx4
+dumbbell shrug(p) 24kgx4x2
+row machine(s) 28.75kgx4,30kgx4
+light two arm hang 15kgx25secsx4
+max incline forward sprinting  15inclinex17speed,15inclinex18.5speed,15inclinex18.5speed
+
+Week 3-Sunday 101223 - Bahram's bday
+
+
+
+Week 4-Monday-11-12-2023
+front sled 106.25kgx2
+tricep pushdown 14kgx4x2
+hack squat(s) 100kgx4, 110kgx4
+barbell split jerk(p) 60kgx4, 67.5kgx4
+incline dumbbell press(s) 38kgx4, 40kgx1
+dumbbell sumo deadlift(p) 22kgx4x2
+banded neck rotation(s) greenbandx4x2
+single leg seated calf raise(p) 84.6kgx4x2
+max two arm hang 46.25kgx10secsx4
+Two Leg Depth Jump 12inch to 42inchx4, 12inch to 43inchx2
+
+Week 4-Tuesday-12-12-2023
+side sled 78.75kgx2
+tricep pushdown 14kgx4x2
+peterson step up 37.5kgx4
+iso barbell front squat 47.5kgx25secs
+iso behind the neck press 47.5kgx25secs [difficult]
+iso barbell bench press 67.5kgx25secs
+iso barbell romanian deadlift 55kgx25secs
+iso barbell wrist flexion 27.5kgx20secs
+iso barbell wrist curl 27.5kgx20secs
+iso two leg dumbbell tibialis raise 26kgx20secs
+one arm hang -5kgx8secsx4
+max speed side sprinting 9.5kphx10secs,10kphx10secs,10.5kphx10secs'
+
+
+Week 4-Wednesday-13-12-2023
+front sled 106.25kgx2
+tricep pushdown 14kgx4x2
+hanging leg raise(s) 2kgx4x2
+one arm dumbbell row(s) 40kgx4, 42kgx4 [difficult]
+back barbell atg split squat(p) 20kgx4x4
+weighted pidgeon(p) 16kgx4x2 [both internal and external rotaiton]
+powel raise(s) 12kgx4, 14kgx2
+medium two arm hang 23.75kgx20secsx4
+single leg depth jump 12inch to 33inchx4x2
+
+
+Week 4-Thursday-14-12-2023
+front sled 106.25kgx2
+tricep pushdown 14kgx4x2
+back barbell cossack squat(p) 25kgx4x3
+dumbbell jefferson curl(s) 34kgx4x2
+hip adductor machine(s) 68.3kgx4x2
+hip abduction machine(s) 68.3kgx4x2
+dumbbell ulnar deviation(p) 10kgx4x2
+dumbbell radial deviation(p) 10kgx4x2
+heavy two arm hang 35kgx15secsx4
+
+
+Week 4-Friday-15-12-2023
+side sled 78.75kgx2
+tricep pushdown 14kgx4x2
+iso peterson step up 22.5kgx25secs [increase rom, balance difficult]
+two leg lying hamstring curl 60kgx4
+iso reverse squat 32kgx20secs
+iso dumbbell pullover 24kgx20secs 
+iso front barbell atg split squat 35kgx25secs
+iso weighted butterflys 34kgx20sec
+iso external dumbbell rotation 6kgx25secs
+one arm hang -5kgx8secsx4
+pjf lateral hop 20inchx10kgx4x2
+
+
+Week 4-Saturday-16-12-2023
+front sled 106.25kgx2
+tricep pushdown 14kgx4x2
+back extension one leg(s) 20kgx4,22kgx4
+reverse curl(p) 20kgx4x2
+barbell preacher curl(s) 30kgx4,32.5kgx4
+overhead walk(double) 30kgx30sec, 32kgx30sec [difficult]
+front barbell shrug(s) 60kgx4, 62.5kgx4
+back barbell shrug(s) 60kgx4, 62.5kgx4
+row machine(p)  20kgx4x2
+light two arm hang 15kgx25secsx4
+max approach jumping 46inchx4x2
+
+
+Week 4-Sunday-17-12-2023
+side sled 80kgx2
+tricep pushdown 14kgx4,16kgx4
+peterson step up 22.5kgx25secs [increase rom, balance difficult]
+iso back barbell cossack squat 35kgx25secs
+iso dumbbell jefferson curl 34kgx20secs
+iso push ups 20kgx25secs
+iso hip adductor machine 62kgx25secs
+iso hip abduction machine 62kgx25secs
+iso dumbbell ulnar deviation 16kgx20secs
+iso dumbbell radial deviation 16kgx20secs
+iso back extension one leg 16kgx25secs
+iso reverse curl 30kgx10secs
+iso barbell preacher curl 32.5kgx20secs
+iso ab machine 36kgx20secs
+iso dumbbell shrug 32kgx20sec
+iso row machine 32kgx20secs
+one arm hang -5kgx8secsx4
+alternate bounding 5hopsx2 [each leg]
+
+
+Week 5-Monday-18-12-2023
+front sled 107.5kgx2
+tricep pushdown 14kgx4,16kgx4
+dumbbell jump squat(p) 30kgx4,34kgx4
+behind the neck press(s) 50kgx4,52.5kgx4
+barbell bench press(p) 60kgx4x2
+barbell romanian deadlift(s) 80kgx4, 85kgx4
+barbell wrist flexion(p) 20kgx4x2
+barbell wrist curl(p) 20kgx4x2
+two leg dumbbell tibialis raise(s) 34kgx4,38kgx4
+max two arm hang 46.25kgx10secsx4 [regress to get grip correct]
+two leg hops 27.5kgx4x3
+
+
+Week 5-Tuesday-19-12-2023
+side sled 80kgx2
+tricep pushdown 14kgx4,16kgx4
+peterson step up 40kgx4
+two leg nordic hamstring curl greenbandx4
+iso barbell back squat 47.5kgx20secs
+iso dumbbell press 24kgx20secs
+iso dumbbell bench press 34kgx20secs
+iso dumbbell romanian deadlift 34kgx20secs [increase ROM]
+iso dumbbell wrist flexion 14kgx15secs
+iso dumbbell wrist curl 14kgx15secs
+iso one leg tibialis raise 34kgx20secs
+one arm hang -5kgx8secsx4
+
+
+
+Week 5-Wednesday-20-12-2023
+front sled 106.25kgx2
+tricep pushdown 14kgx4,16kgx4
+dumbbell pullover(p) 14kgx4x2
+front barbell atg split squat(s) 45kgx4, 47.5kgx4
+weighted butterflys(s) 34kgx4x2 [difficult]
+external dumbbell rotation(p) 6kgx4x2
+medium two arm hang 23.75kgx20secsx4
+
+
+
+Week 5-Thursday-21-12-2023
+front sled 107.5kgx2
+tricep pushdown 14kgx4,16kgx4
+front barbell cossack squat(s 42.5kgx4, 47.5kgx4
+penlay row(p) 70kgx4, 75kgx4
+french press(s) 25kgx4, 27.5kgx4, 30kgx4 [ difficult]
+hip external and internal rotation(p) 12kgx4x2
+barbell shoulder rotation(s) 2.5kgx4
+heavy two arm hang 35kgx15secsx4
+arm box jump 36inchx4x2
+
+
+Week 5-Friday-22-12-2023
+side sled 80kgx2
+tricep pushdown 14kgx4,16kgx4
+peterson step up 22.5kgx25secs [increase rom, balance difficult]
+two leg lying hamstring curl 61.3kgx4 [difficult]
+iso one leg reverse squat 23.8kg15secs
+iso pull ups 22.5kgx20secs
+iso dumbbell atg split squat 44kgx20secs
+iso cable pancake 28kgx20secs
+iso atg dumbbell external rotation 9kgx25secs [ do 3 angles next time]
+one arm hang -5kgx8secsx4
+two leg depth drop 42inchx4x2
+
+
+Week 5-Saturday-23-12-2023
+front sled 107.5kgx2
+tricep pushdown 14kgx4,16kgx4
+barbell curl(s) 45kgx4, 50kgx4,
+side farmer walk(single) 40kgx30secsx2 [ difficult
+dumbbell fly(s) 14kgx4x2 [consider eccentric for higher weight]
+light two arm hang 15kgx25secsx4
+
+Week 5-Sunday-24-12-2023
+side sled 80kgx2
+tricep pushdown 16kgx4x2
+peterson step up 22.5kgx25secs [increase rom, balance difficult]
+single leg nordic hamstring curl greenbandx21inchx4 [left leg difficult]
+iso dumbbell cossack squat 32kgx25secs
+iso seated good morning 50kgx20secs
+iso dips 3.75kgx25secs
+iso cable hip adduction 12kgx20secs 
+iso cable hip abduction 10kgx25secs[difficult on right leg]
+iso neck upwards 5kgx25secs
+iso neck downwards 5kgx25secs
+iso one leg hip thrust 50kgx20secs
+iso incline dumbbell curl 20kgx25secs
+iso incline dumbbell hammer curl 22kgx25secs [difficult]
+iso ql extension 34kgx20secs
+iso lateral dumbbell raise 10kgx25secs
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 23.8kgx25secs
+one arm hang -5kgx8secsx4
+
+
+
+
+
+Week 7-Monday-01-01-2024
+
+front sled  110kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+squat clean(p) 50kgx2, 55kgx2 (difficult balance)
+
+landmine split jerk(p) 50kgx2, 51.25kgx2
+
+incline barbell press(p) 60kgx4x2
+
+barbell deficit deadlift(s) 70kgx2, 75kgx2]
+
+banded neck sides(p) greenbandx4x2
+
+single leg standing calf raise(s)  60kgx2, 65kgx2
+
+Max two arm hang 45kgx10secsx4
+
+sitting box jump 42inchx4, 43 inch x2 [difficuly)
+
+Week 7-Tuesday-02-01-2024
+
+side sled 81.25kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+iso hack squat 27.5kgx25sexs
+
+single leg nordic hamstring curl greenbandx21inchx2 
+
+iso barbell military press 47.5kgx25 secs
+
+iso banded neck rotiation blackbandx25secs
+
+iso incline dumbbell press 28kgx20secs
+
+iso dumbbell sumo deadlift 34kgx20secs (difficult)
+
+iso single leg seated calf raise 79kgx20secs
+
+one arm hang -0kg x 8secsx4 (jumping )
+
+max speed backwards sprinting - 17kphx10secs, 17.3kphx10secs, 17.5kphx10secs
+
+Week 7-Wednesday-03-01-2024
+
+front sled  110kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+single leg monkey foot(p) 8kgx2x2
+
+lat pull down machine(p) 32kgx2x2
+
+pistol squat(s) 8kgx2, 9kgx2
+
+90-90 hip push press(s) 15kgx2,17.5kgx2
+
+cable external rotation(p) 6kgx4x2
+
+Medium two arm hang 25kgx20secsx4 (progress)
+
+sitting single leg box jump 12inch to 36inchx4 (too difficult to do 39inch box jump)
+
+Week 7-Thursday-04-01-2024
+
+front sled  110kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+peterson step up(p) 4redx32.5kgx4x2
+
+barbell jefferson curl(p) 40kgx4x2
+
+tricep extension(s) 37.5kgx2,40kgx2
+
+lateral step up(p) 36kg to 24inchx2,40kg to 24 inch x2
+
+wrist rotation(s) , 14kgx2x2
+
+heavy two arm hang 25kgx20secsx4 (progress)
+
+Week 7-Friday-05-01-2024
+
+side sled 81.25kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+peterson step up 22.5kgx25secs [increase rom, balance difficult]
+
+single leg seated hamstring curl 34.3 kg x2
+
+iso hanging leg raise 1.25kgx20secs (increase rom) 
+
+iso one arm dumbbell row 32kgx25sec
+
+iso back barbell atg split squat 35kgx25secs
+
+iso weighted pidgeon 28kgx25secs
+
+iso powel raise 9kgx20secs
+
+one arm hang -0kg x 8secsx4 (jumping )(difficult )
+
+Week 8-Wednesday-10-01-2024
+front sled 107.5kgx2
+tricep pushdown 16kgx4x2
+single leg monkey foot(s) 16kgx4, 20kgx3 [aim to hold at top]
+lat pull down machine(s) 42kgx4, 45kgx4
+pistol squat(p) 5kgx4x2 [difficult]
+90-90 hip push press(p) 20kgx4x2
+cable external rotation(s) 6kgx4x2
+
+Week 8-Thursday-11-01-2024
+front sled 107.5kgx2
+tricep pushdown 18kgx4x2
+
+One legged extension - 36kgx2x2
+peterson step up(s) 37.5kgx4
+barbell jefferson curl(s) 72.5kgx2,75kgx2
+muscle up(p) 0kg [failed attempts]
+lateral step up(s) 36kgxto24inchx4, 38kgxto24inchx4
+wrist rotation(p) 8kgx4x2
+
+single leg depth drop 27inchx4, 30inchx4
+
+Week 7-Saturday-06-01-2024
+
+front sled  110kgx2
+
+tricep pushdown 17kgx4,19kgx4
+
+back extension(p) 20kgx4x2
+
+chin ups(s) 25kgx4, 27.5kgx2
+
+side overhead walk(single) 35kgx30secs,37.5kgx30secs (difficult)
+
+dumbbell shrug(p) 24kgx4x2
+
+rear delt fly(s) 7kgx4, 8kg x2
+
+Medium two arm hang 25kgx20secs
+
+max incline forward sprinting  15inclinex17speed,15inclinex18.5speed,15inclinex18.5speed
+
+Week 8-Monday-08-01-2024
+front sled 107.5kgx2
+tricep pushdown 16kgx4x2
+reverse nordic(s) 0kgx2x2
+incline barbell press(s) 80kgx2x2 (difficult ) 
+barbell sumo deadlift(s) 70kgx2x2 [full rom]
+banded neck sides(s) greenbandx4x2
+
+Two Legged leg extension 66kgx2x2
+single leg standing calf raise(p) 35kgx4x3
+heavy two arm hang 35kgx15secsx4
+
+Week 8-Friday-12-01-2024
+side sled 80kgx2
+tricep pushdown 16kgx4x2
+peterson step up 22.5kgx25secs [increase rom, balance difficult]
+iso one leg reverse squat 23.8kgx15secs
+iso pull ups 22.5kgx25secs
+iso dumbbell atg split squat 45kgx25secs
+iso cable pancake 28kgx25secs
+iso atg dumbbell external rotation 10kgx20secs [ do 3 angles next time]
+one arm hang -5kgx8secsx4
+
+Week 8-Saturday-13-01-2024
+front sled 107.5kgx2
+tricep pushdown 16kgx4x2
+back extension(s) 42.5kgx2, 45kgx2
+chin ups(p) 10kgx4x2
+side overhead walk(double) 30kgx30sec, 32.kgx30sexs [difficult]
+dumbbell shrug(s) 40kgx4x2 
+rear delt fly(p) 6gx4x3
+heavy two arm hang 35kgx15secsx4
+max approach jumping 46inchx4x2
+
+
+Week 1-Monday-15-01-2024
+front sled 111.25kgx2
+tricep pushdown 17kgx4, 19kgx4
+
+jump barbell back squat(p) 57.5kgx4, 60kgx4
+standing dumbbell press(s) 30kgx2x2
+
+dumbbell bench press(p) 22kgx2x2
+dumbbell romanian deadlift(s) 30kgx2
+
+34kgx2
+dumbbell wrist flexion(p) 7kgx2x2
+dumbbell wrist curl(p) 7kgx2x2
+one leg tibialis raise(s) 42kgx2x2
+max two arm hang 45kgx10secsx4
+two leg hops 27.5kgx4x3
+
+Week 1-Tuesday-16-01-2024
+side sled 81.25kgx2
+tricep pushdown 18kgx4x2
+peterson step up 42.5kgx2 [difficult]
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell front squat 50kgx20secs
+iso behind the neck press 50kgx20secs[difficult]
+
+iso barbell bench press 70kgx15secs
+iso barbell Romanian deadlift 60kgx20secs
+
+iso barbell wrist flexion 27.5kgx20secs
+iso barbell wrist curl 27.5kgx20secs
+iso two leg dumbbell tibialis raise 26kgx20secs
+one arm hang -1kg x8 secs [difficult]
+max incline forward sprinting 15inclinex17speed,15inclinex18.5speed,15inclinex18.8kph
+
+Week 1-Wednesday-17-01-2024
+front sled 111.25kg x2
+tricep pushdown 19kgx4x2
+one leg reverse squat(p) 19kgx2x2
+pull ups(p) 10kgx4x2
+dumbbell atg split squat(s) 48kgx2, 52kgx2
+cable pancake(s) 28kgx2x2
+atg dumbbell external rotation(p) 8kgx2x2
+medium two arm hang 26.25kgx20secs
+standing single leg box jump 36inchx4[no step], 40inchx2 [diffcult, with step]
+
+Week 1-Thursday-18-01-2024
+front sled 111.25kgx2
+tricep pushdown 18kgx2
+dumbbell cossack squat(s) 40kgx2, 44kg x2
+
+Two legged leg extension(s) 73kgx2, 79kgx2
+seated good morning(p) 45kgx4x2
+dips(s) 5kg x2, 8.75kgx2 (straighten elbows)
+cable hip adduction(p) 6kgx4x2
+cable hip abduction(p) 6kgx4x2
+neck upwards 5kgx25secs
+neck downwards 5kgx25secs
+heavy two arm hang 35kgx15secsx4
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+Week 1-Friday-19-01-2024
+side sled 81.25kgx2
+tricep pushdown 19kgx4x2
+iso peterson step up 22.5kgx25secs [increase rom, balance difficult]
+
+One Leg Lying Hamstring Curl 32kgx2
+iso reverse squat 32kgx25secs
+iso dumbbell pullover 24kgx25secs
+iso front barbell atg split squat 40kgx20secs
+iso weighted butterflys 34kgx25secs
+iso external dumbbell rotation 6kgx25secs
+one arm hang 1kg x8 secs
+two leg depth drop 42inchx4x2
+
+Week 1-Saturday-20-01-2024
+front sled 111.25kgx2
+tricep pushdown 19kgx4x2
+one leg hip thrust(p) 30kgx2x2
+incline dumbbell curl(s) 20kgx2, 22kgx2
+incline dumbbell hammer curl(p) 14kgx4x2
+farmer walk(single) 40kgx30secsx2
+ql extension(p) 20kgx2x2
+lateral dumbbell raise(s) 14kgx2,16kgx1 (failed second rep)
+frontal dumbbell raise(p) 7kgx2x2 
+face pulls(s) 26.1kgx2,28.4kgx2
+light two arm hang 16.25kgx25secsx4
+max incline backward sprinting 9.5kphx10sece,  10.5phx10secs,,11kphx10secs
+
+
+
+Week 2-Monday-22-01-2024
+front sled 111.25kgx2
+tricep pushdown 19kgx4x2
+barbell back squat(s) 87.5kgx2,92.5kgx2
+barbell push press(p) 70kgx2,72,5kgx2
+dumbbell bench press(s) 40kgx2x2 [difficult]
+dumbbell romanian deadlift(p) 20kgx4x3
+dumbbell wrist flexion(s) 12kgx2x2
+dumbbell wrist curl(s) 12kgx2x2
+one leg tibialis raise(p) 20kgx3x3
+max two arm hang 50kgx10secsx4[progress]
+two legged box jump 43inchx4x2 [step before jumping-redo]
+
+Week 2-Tuesday-23-01-2024
+side sled 82.25kgx2
+tricep pushdown 19kgx4,21kgx4
+peterson step up 45kgx2 [increase ROM]
+single leg nordic hamstring curl greenbandx21inchx2
+iso hack squat 30kgx20secs ( lower weight )
+iso barbell military press 50kgx20secs
+
+iso incline dumbbell press 28kgx25secs
+iso dumbbell sumo deadlift 34kgx25secs(difficult)
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 79kgx20secs
+one arm hang 1kg x8 secs
+max approach jumping 46inchx4x2
+
+Week 2-Wednesday-24-01-2024
+front sled 111.25kgx2
+tricep pushdown 19kgx4x2
+one leg reverse squat(s) 23kgx2, 26.1kg x2 [difficult)
+pull ups(s) 25kgx2, 26.25kgx2
+dumbbell atg split squat(s) 52kgx2x2
+cable pancake(p) 21kgx4x2
+atg dumbbell external rotation(s) 14kgx2, 16kgx2 (difficult)
+medium two arm hang 26.25kgx20secs
+single leg hop 27.5kgx4x2
+
+Week 2-Thursday-25-01-2024
+front sled 111.25kgx2
+tricep pushdown 19kgx4, 21kgx4
+dumbbell cossack squat(p) 40kgx2, 42kgx2
+seated good morning(s) 70kgx2, 75kgx2
+dips(p) 5kgx2, 7.5kgx2
+cable hip adduction(s) 12kgx2, 14kg x2
+cable hip abduction(s) 10kgx2,12kgx2
+neck upwards 5kgx25secs
+neck downwards 5kgx25secs
+heavy two arm hang 35kgx15secsx4
+max speed backwards sprinting - 17kphx10secs, 17.5kphx10secs, 17.7kphx10secs
+
+Two legged leg extension(p) 73kgx2, 79kgx2
+
+Week 2-Friday-26-01-2024
+side sled 82.5kgx2
+tricep pushdown 19kgx4,21kgx4
+
+Two Leg Iso Lying Hamstring Curl 32kgx20secs (progress)
+iso peterson step up 25kgx20secs [increase rom, balance difficult]
+iso hanging leg raise 1.25kgx20secs (increase rom)
+iso one arm dumbbell row 34kgx20secs
+iso back barbell atg split squat 40kgx20 secs
+iso weighted pidgeon 28kgx25secs
+iso powel raise 9kgx25secs
+one arm hang 1kg x8 secs
+single lateral jump 2linesx4x2
+
+Week 2-Saturday-27-01-2024
+front sled 112.5kgx2
+tricep pushdown 19kgx4,21kgx4
+one leg hip thrust(s) 50kgx4,52.5kgx2
+incline dumbbell curl(p) 12kgx4x2
+incline dumbbell hammer curl(s) 22kgx2, 24kgx2 (difficult)
+farmer walk(double) 42kgx30secsx2 (difficult)
+ql extension(s) 36kgx4x2
+lateral dumbbell raise(p) 7kgx4x3
+frontal raise(s) 10kgx2x2 (slow eccentric)
+face pulls(p) 12kgx4x2
+light two arm hang 16.25kgx25secsx4
+Max Incline Side Sprinting 7kphx10secs, 7.3kphx10secs, 7.5kphx10secs
+
+Week 2-Sunday-28-01-2024
+side sled 83.75kgx2
+tricep pushdown 21kgx4x2
+peterson step up 40kgx2
+iso back barbell cossack squat 40kgx20secs
+iso dumbbell jefferson curl 34kgx25secs
+iso push ups 21.25kgx20secs
+iso hip adductor machine 63kgx20secs
+iso hip abduction machine 66kgx20secs ( difficult )
+iso dumbbell ulnar deviation 16kgx25secs
+iso dumbbell radial deviation 16kgx25secs
+one arm hang 2kgx8secs ( difficult)
+iso back extension one leg 18kgx20secs
+iso reverse curl 30kgx15secs (difficult - redo )
+iso barbell preacher curl 32.5kgx25secs
+iso ab machine 36kgx25secs
+iso dumbbell shrug 32kgx25secs
+iso row machine 32.5kgx25secs
+bounding 5hopsx2 [each leg]
+
+One Leg Iso Seated Hamstring 25kgx20sec (difficult )
+Iso One Legged Leg Press 25kgx20secs
+
+
+
+Week 3-Monday-29-01-2024
+
+Squat Clean(p) - 50kgx2,55kgx2
+front sled 113.75kgx2
+tricep pushdown 21kgx4x2
+barbell military press(s) 65kgx2, 70kgx2 (difficult)
+incline dumbbell press(p) 20kgx2x2
+dumbbell sumo deadlift(s) 34kgx2x2
+banded neck rotiation(p) greenbandx2x2
+single leg seated calf raise(s) 83.6x2, 86kgx2 (difficult for full rom)
+max two arm hang 50kgx10secsx4[progress]
+sitting box jump 43inchx4x2
+
+Week 3-Tuesday-30-01-2024
+
+Two Leg Iso Nordic Hamstring Curl 24inchx20secs
+side sled 83.75kgx2
+tricep pushdown 21kgx4x2
+peterson step up 40kgx2
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 55.5kgx25secs
+iso barbell deadlift 55kgx25secs
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 72.5x20secs
+one arm hang 2kgx8secs ( difficult)
+max speed backwards sprinting - 17.3kphx10secs, 17.6kphx10secs, 17.9kphx10sexs
+
+Week 3-Wednesday-31-01-2024
+front sled 112.5kgx2
+tricep pushdown 21kgx4x2
+hanging leg raise(p) 2kgx2, 3kgx2
+one arm dumbbell row(p) 22kgx4x2
+back barbell atg split squat(s) 55kgx2x2 (difficult)
+weighted pidgeon(s) 20kgx2x2
+powel raise(p) 7kgx4x2
+medium two arm hang 26.25kgx20secs
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 3-Thursday-01-02-2024
+front sled 112.5kgx2
+tricep pushdown 21kgx4x2
+
+One Legged Leg Press(s) 32kgx2,45kgx2
+back barbell cossack squat(s) 50kgx2, 52.5kgx2
+dumbbell jefferson curl(p) 22kgx2x2
+push ups(s) 40kgx2,42.5kgx2
+hip adductor machine(p) 68.3kgx2,69.4kgx2
+hip abduction machine(p) 68.3kgx2, 73kgx2
+dumbbell ulnar deviation(s) 16kgx4x2
+dumbbell radial deviation(s) 16kgx4x2
+heavy two arm hang 35kgx15secsx4
+
+max incline side sprinting  7.5kphx10secs, 7.8kphx10secs
+
+Week 3-Friday-02-02-2024
+
+One Leg Iso Lying Hamstring Curl 32kgx20secs
+side sled 83.75kgx2
+tricep pushdown 21kgx4x2
+iso peterson step up 25kgx20secs [increase rom, balance difficult]
+iso single leg monkey foot 12kgx25secs
+iso lat pull down machine 52kgx25secs
+iso pistol squat 0kgx25secs
+iso 90-90 hip push press 10kgx25secs
+iso cable external rotation 8kgx20secs [increase rom]
+one arm hang 2kgx8secs ( difficult)
+single leg depth drop 27inchx4, 32inchx4
+
+Week 3-Saturday-03-02-2024
+front sled 113.75kgx2
+tricep pushdown 21kgx4x2
+back extension one leg(p) 10kgx4x2
+reverse curl(s) 30kgx2, 32.5kgx2
+barbell preacher curl(s),32.5kgx2, 35kgx2
+overhead walk(single) 36kgx30secs, 38x30secs ( difficult)
+ab machine(s) 50kgx4, 52.5kgx4
+dumbbell shrug(p) 24kgx4x2
+row machine(s) 30kgx2,31.25kgx2
+light two arm hang 17.5kgx25secsx4
+max incline forward sprinting 15inclinex18kph, 15inclinex18.5kph,15inclinex19kph
+
+Week 3-Sunday-04-02-2024
+side sled 85kgx2
+tricep pushdown 21kgx4,24kgx4
+iso peterson step up 25kgx25secs
+two leg seated hamstring curl 69.4kgx2
+iso barbell jefferson curl 60kgx20secs ( aim to do on bench for larger rom)
+iso tricep extension 22.5kgx25secs
+iso back extension one leg 18kgx20secs
+iso chin ups 22.5kgx20secs
+iso dumbbell shrug 34kgx20secs
+iso rear delt fly 8kgx20secs
+one arm hang 2kgx8secs ( difficult)
+running broad jump 2.75linesx4, 3 lines x2
+
+Iso Wrist Rotation 12kgx2
+Iso Two Legged Leg Press 35kgx20 (manual machine)
+
+
+Week 4-Monday-05-02-2024
+front sled 115kgx2
+tricep pushdown 21kgx4,24kgx4
+hack squat(s) 30kgx2, 35kgx2
+barbell split jerk(p), 65kgx2,70kgx2
+incline dumbbell press(s) 38kgx4, 40kgx2 ( progress)
+dumbbell sumo deadlift(p) 22kgx4x2
+banded neck rotation(s) greenbandx4x2
+single leg seated calf raise(p) 83.6kgx2, 86kgx2( increase rpm)
+max two arm hang 52.5kgx10secsx4[progress]
+two leg depth jump 12inch to 44inchx4x2 ( difficult - technique required )
+
+Week 4-Tuesday-06-02-2024
+side sled 85kgx2
+tricep pushdown 21kgx4,24kgx4
+peterson step up 42.5kgx2
+iso barbell front squat 50kgx25secs
+iso behind the neck press 50kgx25secs[difficult]
+iso barbell bench press 70kgx20secs
+iso barbell romanian deadlift 60kgx25secs
+iso barbell wrist flexion 27.5kgx25secs
+iso barbell wrist curl 27.5kgx25secs
+iso two leg dumbbell tibialis raise 26kgx25secs
+one arm hang 2kgx8secs ( difficult)
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+One Leg Iso Nordic Hamstring Curl not found
+
+Week 4-Wednesday-07-02-2024
+front sled 113.75kgx2
+tricep pushdown 21kgx4,24kgx4
+hanging leg raise(s) 2kgx2, 3kgx2
+one arm dumbbell row(s) 42kgx2, 46kgx2 (difficult)
+back barbell atg split squat(p) 52.5kgx2,55kgx2
+weighted pidgeon(p) 16kgx4x2 [both internal and external rotaiton]
+powel raise(s) 14kgx2x2
+medium two arm hang 26.25kgx20secs
+single leg depth jump 12inch to 36inchx4x2(difficult but doable - progress )
+
+Week 4-Thursday-08-02-2024
+front sled 115kgx2
+tricep pushdown 21kgx4,24kgx4
+back barbell cossack squat(p) 52.5kgx2, 55kgx2
+dumbbell jefferson curl(s) 34kgx2, 36kgx2
+hip adductor machine(s) 70kgx2x2
+hip abduction machine(s) 68.3kgx2,73kgx2
+dumbbell ulnar deviation(p) 10kgx2x2
+dumbbell radial deviation(p) 10kgx2x2
+heavy two arm hang 36.25kgx15secsx4(difficult increase rom)
+
+One Legged Leg Press(p)  25kgx2,32kgx2
+
+Push ups(p) not found
+
+max incline backwards sprinting 8.5kphx10secs, 9.5kphx10secs,10.5kphx10secs
+
+Week 4-Friday-09-02-2024
+side sled 85kgx2
+tricep pushdown 21kgx4,24kgx4
+iso peterson step up 27.5kgx20sece
+two leg lying hamstring curl 62.3kgx2
+iso reverse squat 34kgx20secs
+iso dumbbell pullover 26kgx20secs
+iso front barbell atg split squat 40kgx25secs
+iso weighted butterflys 36kgx20secs
+iso external dumbbell rotation 6kgx25secs
+one arm hang 2kgx8secs ( difficult)
+pjf lateral hop 20inchx10kgx4x2
+
+Week 4-Saturday-10-02-2024
+front sled 113.75kgx2
+tricep pushdown 21kgx4,24kgx4
+back extension one leg(s) 24kgx2,26kgx2
+reverse curl(p) 20kgx4x2
+barbell preacher curl(p) 20kgx4x2
+overhead walk(double) 32.kgx30secsx2
+front barbell shrug(s) 65kgx2,67.5kgx2
+back barbell shrug(s) 65kgx2,67.5kgx2
+row machine(p)  20kgx4x2
+light two arm hang 17.5kgx25secsx4
+max approach jumping 46inchx4x2
+
+Ab Machine(p) not found
+
+Week 4-Sunday-11-02-2024
+side sled 86.25kg
+tricep pushdown 24kgx4x2
+iso back barbell cossack squat 40kgx25secs
+iso dumbbell jefferson curl 36kgx20secs
+iso push ups 21.25kgx25secs
+iso hip adductor machine 63kgx25secs
+iso hip abduction machine 66kgx20secs ( difficult )
+iso dumbbell ulnar deviation 18kgx20secs
+iso dumbbell radial deviation 18kgx20secs
+iso back extension one leg 18kgx20secs
+iso reverse curl 30kgx15secs
+iso barbell preacher curl 35kgx20secs
+iso ab machine 38kgx20secs
+iso dumbbell shrug 34kgx25secs
+iso row machine 32.5kgx25secs
+one arm hang 2kgx8secs ( difficult)
+One Leg Seated Hamstring Curl 32kgx2
+Iso One Legged Leg Extension 32kgx20secs
+alternate bounding 5hopsx2 [each leg]
+
+
+
+Week 5-Monday-12-02-2024
+front sled 115kgx2
+tricep pushdown 24kgx4x2
+dumbbell jump squat(p) 36kgx2,40kgx2
+behind the neck press(s) 55kgx2, 57.5kgx2
+barbell bench press(p) 60kgx4x2
+barbell romanian deadlift(s) 90kgx2,95kgx2
+barbell wrist flexion(p) 20kgx3x 22.5kgx2
+barbell wrist curl(p) 22.5kgx2
+two leg dumbbell tibialis raise(s) 42kgx2,44kgx2
+max two arm hang 53.75kgx10secsx4[progress]
+two leg hops 27.5kgx4x3
+
+Week 5-Tuesday-13-02-2024
+side sled 86.25kg
+tricep pushdown 24kgx4x2
+peterson step up 45kgx2
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell back squat 47.5kgx25secs
+iso dumbbell press 24kgx25secs
+iso dumbbell bench press 34kgx25secs
+iso dumbbell romanian deadlift 34kgx25secs[increase rom]
+iso dumbbell wrist flexion 14kgx20secs (difficult(
+iso dumbbell wrist curl 14kgx20secd( difficult )
+iso one leg tibialis raise 34kgx25secs
+one arm hang 2kgx8secs ( difficult)
+max incline forward sprinting 15inclinex18.5kph, 15inclinex19kph,15inclinex19.2kph (difficult )
+
+Week 5-Wednesday-14-02-2024
+front sled 115kgx2
+tricep pushdown 24kgx4x2
+dumbbell pullover(p) 14kgx4x2
+front barbell atg split squat(s) 50kgx2x2
+weighted butterflys(s) 34kgx4x2
+external dumbbell rotation(p) 6kgx4x2
+medium two arm hang 26.25kgx20secs
+
+Two Legged Reverse Squat(p) 35kgx2x2
+standing single leg box jump 36inchx4[no step], 40inchx2 [diffcult, with step]
+
+Week 5-Thursday-15-02-2024
+front sled 115kgx2
+tricep pushdown 24kgx4x2
+front barbell cossack squat(s) 45kgx2,47.5kgx2
+penlay row(p) 80kgx2,82.5kgx2
+
+One Legged Leg Extension(s)45kgx2 x2 (difficult )
+french press(s) 30kgx2x2
+hip external and internal rotation(p) 14kgx2x2
+barbell shoulder rotation(s) 5kgx4(wide) , 5kgx2
+heavy two arm hang 36.25kgx15secsx4(difficult increase rom)
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+Week 5-Friday-16-02-2024
+side sled 86.25kg
+tricep pushdown 24kgx4x2
+peterson step up 30kgx20secs
+one leg lying hamstring curl 33.1kgx2 (difficult )
+iso one leg reverse squat 23.8kgx20secs
+iso pull ups 23.75kgx20secs
+iso dumbbell atg split squat 48kgx20secs
+iso cable pancake 29kgx20secs
+iso atg dumbbell external rotation 10kgx25secs (do 3 angles next time]
+one arm hang 2kgx8secs ( difficult)
+two leg depth drop 43inchx4, 44inchx4
+
+Week 5-Saturday-17-02-2024
+front sled 115kgx2
+tricep pushdown 24kgx4x2
+barbell curl(s) 50kgx2,52.5kgx2
+
+Two Legged Hip Thrust(p) 80kgx2x2
+side farmer walk(single) 40kgx30secs,42kgx30secs
+landmine rotation(s) 50kgx2,51.25kgx2
+trap 3 raise(p) 6kgx2
+dumbbell fly(s) 14kgx2, 16kgx2 (eccentric only)
+light two arm hang 17.5kgx25secsx4(progress)
+max incline backward sprinting 10kphx10sec,11kphx10secs,11.2kphx10secs
+
+Week 5-Sunday-18-02-2024
+side sled 87.5kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+iso dumbbell cossack squat 34kgx20secs
+iso seated good morning 50kgx25secs
+iso dips 5kgx20secs
+iso cable hip adduction 12kgx25secs
+iso cable hip abduction 11.25kgx20secs
+
+Two Leg Iso Seated Hamstring Curl 39kgx20secs ( middle difficuly )
+Iso Two legged Leg extension 52kgx20secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 50kgx25secs ( difficult on right leg ) 
+iso incline dumbbell curl 22kgx20secs
+iso incline dumbbell hammer curl 24kgx15secs (difficult )
+iso ql extension 36kgx20secs
+iso lateral dumbbell raise 12kgx15secs
+iso frontal raise 10kgx15secs [ difficult] 
+iso face pulls 23.8kgx25secs
+one arm hang 5kgx8secs
+standing broad jump 2rowx4, 2 and 1/4 rows x 4
+
+
+
+
+Week 6-Monday-19-02-2024
+front sled 116.25kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+barbell front squat(s) 82.5kgx2, 87.5kgx2
+behind the neck push press(p) 55kgx2, 57.5kgx2
+barbell bench press(s) 90kgx2,95kgx2
+barbell romanian deadlift(p) 92.5kgx2,97.5kgx2
+barbell wrist flexion(s) 25kgx2,27.5kgx2
+barbell wrist curl(s) 25kgx2,27.5kgx2
+two leg dumbbell tibialis raise(p) 28kgx4x2
+max two arm hang 55kgx10secsx4[progress]
+two legged box jump 43inchx4x2 [step before jumping-redo]
+
+Week 6-Tuesday-20-02-2024
+side sled 87.5kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+
+One Leg Nordic Hamstring Curl 30inch x2
+peterson step up 42.5kgx2
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 60kgx20secs
+iso barbell deadlift 60kgx20secs
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 72.5x25secs
+one arm hang 5kgx8secs
+max approach jumping 46inchx4x2
+
+Week 6-Wednesday-21-02-2024
+front sled 116.25kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+One legged reverse squat(s) 23kgx2x2
+dumbbell pullover(s) 32kgx2,34kgx2
+front barbell atg split squat(p) 50kgx2,55kgx2 (difficult)
+weighted butterflys(p) 20kgx4x2
+external dumbbell rotation(s) 7kgx2x2
+medium two arm hang 27.5kgx20secs
+single leg hop 30kgx4x2
+
+Week 6-Thursday-22-02-2024
+front sled 115kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+front barbell cossack squat(s) 45kgx2,47.5kgx2
+
+One Legged Leg Extension(p) not found
+barbell back row(s) 70kgx2,75kgx2
+french press(p) 30kgx2x2
+hip external and internal rotation(s) 12kgx4, 14kgx4
+barbell shoulder rotation(p) 5kgx4x2
+heavy two arm hang 36.25kgx15secsx4(difficult increase rom)
+max speed backwards sprinting - 17.5kphx10secs, 17.8kphx10secs, 18kphx10secs
+
+Week 6-Friday-23-02-2024
+side sled 87.5kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+two leg iso lying hamstring curl 45kgx25secs
+iso single leg monkey foot 16kgx20secs
+iso lat pull down machine 53.1kgx20secs
+iso pistol squat 1kgx20secs
+iso 90-90 hip push press 12kgx20secs
+iso cable external rotation 8kgx25secs[increase rom]
+one arm hang 5kgx8secs
+single lateral jump 2linesx4x2
+
+Week 6-Saturday-24-02-2024
+front sled 116.25kgx2
+tricep pushdown 24kgx4, 25.25kgx4
+two legged hip thrust(s) 130kgx2,135kgx2
+Spider curl(p) 30kgx2, 35kgx2
+side farmer walk(double) 42kgx30secsx2
+landmine rotation(p) 50kgx2, 52kgx2
+trap 3 raise(s) 9kgx2,10kgx2(difficult 
+Cable fly(p) 8kgx2x2
+light two arm hang 17.5kgx25secsx4(progress)
+depth drop 43inchx4, 44inchx4
+max incline side sprinting  7.5kphx10secs, 7.8kphx10secs, 8.0kphx10secs
+
+Week 6-Sunday-25-02-2024
+side sled 88.75kgx2
+tricep pushdown 25.25kgx4x2
+iso two legged leg press 35kgx25secs (manual machine)
+
+One Leg Iso Seated Hamstring Curl 25kgx20secs
+iso wrist rotation 12kgx2
+iso barbell jefferson curl 60kgx25secs( aim to do on bench for larger rom)
+iso tricep extension 25kgx20secs
+iso back extension one leg 18kgx20secs
+iso chin ups 22.5kgx25secs
+iso dumbbell shrug 36kgx20secs
+iso rear delt fly 8kgx25secs
+one arm hang 5kgx8secs
+bounding 5hopsx2 [each leg]
+
+
+Week 7-Monday-26-02-2024
+front sled 116.25kgx2
+tricep pushdown 25.25kgx4x2
+squat clean(p) - 55kgx2x2
+landmine split jerk(p) 52.5kgx2,55kgx2
+incline barbell press(p) 80kgx2, 85kgx2
+barbell deficit deadlift(s) 80kgx2, 82.5kgx2
+banded neck sides(p) greenbandx4x2
+single leg standing calf raise(s)  70kgx2
+max two arm hang 56.25kgx10secsx4[progress]
+sitting box jump 43inchx4x2
+
+Week 7-Tuesday-27-02-2024
+side sled 88.75kgx2
+tricep pushdown 25.25kgx4x2
+
+Peterson step up 50kgx2
+iso hack squat 30kgx20secs ( lower weight )
+two leg iso nordic hamstring curl 24inchx20secs
+iso barbell military press 50kgx25secs
+iso incline dumbbell press 30kgx20secs
+iso dumbbell sumo deadlift 36kgx20secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 79kgx25secs
+one arm hang 6kgx6secs
+max speed backwards sprinting - 17.6kphx10secs, 18kphx10secs,18.3kphx10secs
+
+Week 7-Wednesday-28-02-2024
+front sled 117.5kgx2
+tricep pushdown 25.25kgx4x2
+single leg monkey foot(p) 8kgx2x2
+lat pull down machine(p) 59kgx2,66kgx2
+pistol squat(s) 10kgx2,12kgx2
+90-90 hip push press(s) 18kgx2,20kgx2
+cable external rotation(p) 8kgx2,9.25kgx2 [difficuly]
+medium two arm hang 27.5kgx20secs
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 7-Thursday-29-02-2024
+front sled 117.5kgx2
+tricep pushdown 25.25kgx4x2
+barbell jefferson curl(p)  75kgx2, 77.5kgx2(difficult)
+tricep extension(s) 40kgx2x2
+lateral step up(p) 42kgx2 24inch ,44kgx2 to 24 inch
+wrist rotation(s) , 14kgx2x2
+heavy two arm hang 36.25kgx15secsx4(difficult increase rom)
+max incline side sprinting  8.0kphx10secs,, 8.2kphx10secs,8.4kphx10secs
+
+Two Legged Leg Press(s) 93kgx2, 107kgx2
+
+Week 7-Friday-01-03-2024
+side sled 88.75kgx2
+tricep pushdown 25.25kgx4x2
+one leg iso lying hamstring curl 32kgx25secs (difficult )
+iso hanging leg raise 1.25kgx25secs ( increase rom)
+iso one arm dumbbell row 34kgx25secs
+iso back barbell atg split squat 40kgx25 secs
+iso weighted pidgeon 28kgx25secs
+iso powel raise 10kgx20secs
+one arm hang 6kgx5 secs
+single leg depth drop 36inchx4x2
+
+Peterson Iso Step Up 25kgx25secs
+
+Week 7-Saturday-02-03-2024
+front sled 117.5kgx2
+tricep pushdown 25.25kgx4x2
+back extension(p) 45kgx2x2
+chin ups(s) 30kgx2,31.25kgx2
+side overhead walk(single) 38kgx30secs, 40kg x30 secs (difficult )
+dumbbell shrug(p) 40kgx2,44kgx2
+rear delt fly(s) 7kgx4, 8kg x2
+light two arm hang 17.5kgx25secsx4(progress)
+max incline forward sprinting 15inclinex18.7 ,15inclinex19.2kph, 15inclinex19.4 kph ( tired from second set ) 
+
+Week 7-Sunday-03-03-2024
+side sled 90kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+two leg seated hamstring curl 70.6kgx2
+iso back barbell cossack squat 42.5kgx20secs
+iso one legged leg press 25kgx25secs
+iso dumbbell jefferson curl 38kgx20secs
+iso push ups 22.5kgx20secs
+iso hip adductor machine 66kgx20secs
+iso hip abduction machine 66kgx25secs
+iso dumbbell ulnar deviation 18kgx25secs
+iso dumbbell radial deviation 18kgx25secs
+iso back extension one leg 18kgx25secs
+iso reverse curl 30kgx20secs
+iso barbell preacher curl 35kgx25secs
+iso ab machine 38kgx25secs
+iso dumbbell shrug 38kgx20secs
+iso row machine 35kgx20secs
+one arm hang 7kgx5secs
+running broad jump 2.75linesx4, 3 lines x2
+
+
+
+# Gym routine
+
+Week 8-Monday-04-03-2024
+front sled 120kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+reverse nordic(s) 0kgx2x2
+incline barbell press(s) 85kgx2, 87.5kgx2
+barbell deadlift(s) 140kgx2, 142.5kgx2
+banded neck sides(s) greenbandx4x2
+single leg standing calf raise(p) 70kgx2
+max two arm hang 56.25kgx10secsx4[progress]
+depth jump 12inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Tuesday-05-03-2024
+side sled 90kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+peterson step up 52.5kgx2
+one leg iso nordic hamstring curl not found
+iso barbell back squat 50kgx20secs
+iso barbell military press 52.5kgx20secs
+iso dumbbell bench press 36kgx20secs
+iso dumbbell romanian deadlift 34kgx25secs[increase rom]
+iso dumbbell wrist flexion 14kgx25secs(difficult(
+iso dumbbell wrist curl 14kgx25secs( difficult )
+iso one leg tibialis raise 36kgx20secs
+one arm hang 7kgx5secs
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+Week 8-Wednesday-06-03-2024
+front sled 120kgx2
+tricep pushdown 25.5kgx4, 26.1kgx4
+single leg monkey foot(s) 20kgx2x2
+lat pull down machine(s) 59kgx2, 61.3kgx2
+pistol squat(p) 5kgx2, 6kgx2
+90-90 hip push press(p) 20kgx4x2
+cable external rotation(s) 8kgx2x2
+medium two arm hang 27.5kgx20secs
+single leg depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Thursday-07-03-2024
+front sled 120kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+barbell jefferson curl(s)  77.5kgx2, 80kgx2
+
+Two Legged Leg Press(p) 107kgx2, 109.3kgx2
+ (dips(s) 7.5kgx2 , 10kgx2(straighten elbows))
+lateral step up(s) 42kgx2 24inch ,44kgx2 to 24 inch
+wrist rotation(p) 14kgx2,16kgx2(increase ROM)
+heavy two arm hang 36.25kgx15secsx4(difficult increase rom)
+max incline backwards sprinting 9.5kphx10secs,10.5kphx10secs, 11kphx10 secs (difficult)
+
+Week 8-Friday-08-03-2024
+side sled 90kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+peterson iso step up 25kgx25secs
+two leg lying hamstring curl 64kgx2
+iso one leg reverse squat 23.8kgx25secs (difficult)
+iso pull ups 23.75kgx25secs
+iso dumbbell atg split squat 48kgx25secs
+iso cable pancake 29kgx25secs
+iso atg dumbbell external rotation 12kgx20secs (do 3 angles next time](difficult)
+one arm hang 7kgx5secs
+pjf lateral hop 20inchx10kgx4x2
+
+Week 8-Saturday-09-03-2024
+front sled 120kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+back extension(s) 45kgx2, 47.5kgx2
+chin ups(p) 31.25kgx2
+side overhead walk(double) 32.kgx30secs, 34kgx30secs (difficult )
+dumbbell shrug(s) 44kgx2, 46kgx2 (difficult )
+rear delt fly(p) 8kgx2, 9kgx2
+light two arm hang 18.7kgx25secsx4
+max approach jumping 46inchx4x2
+
+Week 8-Sunday-10-03-2024
+side sled 90kgx2
+tricep pushdown 25.25kgx4, 26.1kgx4
+one leg seated hamstring curl 32kgx2
+iso dumbbell cossack squat 34kgx20secs
+iso two legged leg extension 52kgx20secs
+iso seated good morning 50kgx25secs
+iso dips 5kgx20secs
+iso cable hip adduction 12kgx25secs
+iso cable hip abduction 11.25kgx20secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 50kgx25secs ( difficult on right leg )
+iso incline dumbbell curl 22kgx20secs
+iso incline dumbbell hammer curl 24kgx15secs (difficult )
+iso ql extension 36kgx20secs
+iso lateral dumbbell raise 12kgx15secs
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 23.8kgx25secs
+one arm hang 7kgx5secs
+alternate bounding 5hopsx2 [each leg]
+
+
+
+Week 1-Monday-11-03-2024
+front sled 121.25kgx2
+tricep pushdown 26.1kgx4x2
+
+dumbbell atg split squat(s) 56kgx2, 60kgx2 ( difficult - improve form )
+standing dumbbell press(s) 30kgx2,32kgx2
+dumbbell bench press(s) 40kgx2x2 [difficult]
+dumbbell romanian deadlift(s) 30kgx2 , 40kgx 2 (increase ROM)
+dumbbell wrist flexion(s) 12kgx2x2
+dumbbell wrist curl(s) 12kgx2x2
+one leg tibialis raise(s) 42kgx2x2
+max two arm hang 60kgx10secsx4 ( progress)
+two leg hops 27.5kgx4x3
+
+Week 1-Tuesday-12-03-2024
+side sled 90kgx2
+peterson step up 52.5kgx2
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell front squat 50kgx25secs
+iso behind the neck press 50kgx25secs[difficult]
+iso barbell bench press 70kgx20secs
+iso barbell romanian deadlift 60kgx25secs
+iso barbell wrist flexion 27.5kgx25secs
+iso barbell wrist curl 27.5kgx25secs
+iso two leg dumbbell tibialis raise 26kgx25secs
+one arm hang 7kgx5secs
+max incline forward sprinting 15inclinex19kpg,15inclinex19.3kphx 10secs, 15inclinex19.5kphx10secs
+
+Week 1-Wednesday-13-03-2024
+front sled 121.25kgx2
+tricep pushdown 26.1kgx4x2
+one leg reverse squat(s) 23kgx2, 24.25kgx2
+pull ups(s) 26.25kgx2, 27.5kgx2
+
+cable pancake(s) 28kgx2, 29.25kgx2 ( increase ROM )
+atg dumbbell external rotation(s) 14kgx2, 16kgx2
+medium two arm hang 27.5kgx20secs
+standing single leg box jump 36inchx4[no step], 40inchx2 [diffcult, with step]
+
+Week 1-Thursday-14-03-2024
+front sled 122.5kgx2
+tricep pushdown 26.1kgx4x2
+dumbbell cossack squat(s) 44kg x2, 46kgx2
+two legged leg extension(s) 79kgx2, 81.3kgx2
+seated good morning(s) 75kgx2, 77.5kgx2
+dips(s) 7.5kgx2 , 10kgx2(straighten elbows))
+cable hip adduction(s) , 14kg x2, 15.25kgx2
+cable hip abduction(s) ,12kgx2, 13.25kgx2
+neck upwards 10kgx20secs
+neck downwards 10kgx20secs
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+Week 1-Friday-15-03-2024
+side sled 91.25kgx2
+
+Tricep overhead 19.3kgx4x2
+peterson iso step up 27.5kgx20secs
+one leg lying hamstring curl 33.1kgx2 (difficult )
+iso reverse squat 34kgx20secs
+iso dumbbell pullover 26kgx25secs
+iso front barbell atg split squat 42.5kgx20secs
+iso weighted butterflys 40kgx20secs
+iso external dumbbell rotation 7kgx20secs
+one arm hang 7kgx5secs
+two leg depth drop  44inchx4, 47inch,4
+
+Week 1-Saturday-16-03-2024
+front sled 122.5kgx2
+tricep pushdown 26.1kgx4x2
+one leg hip thrust(s) 55kgx2x2
+incline dumbbell curl(s) 22kgx2x2
+farmer walk(single) 42kgx30secsx2
+ql extension(s) 36kgx2,38kgx2
+lateral dumbbell raise(s) 14kgx2x2
+
+Frontal Hammer Dumbbell Raise(s) 10kgx2, 12kgx2
+face pulls(s) 28.4kgx2x2
+light two arm hang 18.7kgx25secsx4
+max incline backward sprinting 11kphx10secs,11.2kphx10secs, 11.2kphx10secs
+
+Week 1-Sunday-17-03-2024
+side sled 92.5kgx2
+
+Tricep overhead 17kgx4, 19kgx4
+two leg iso seated hamstring curl 39kgx25sec( middle difficuly )
+iso front barbell cossack squat 32.5kgx20secs
+iso one legged leg extension 32kgx20secs
+iso barbell back row 50kgx20secs
+iso french press 17.5kgx20secs
+iso hip external and internal rotation 10kgx25secs
+iso two legged hip thrust 80kgx20secs
+iso barbell curl 35kgx25secs
+iso landmine rotation 32.5kgx20secs
+iso trap 3 raise 7kgx20secs (difficult -redo)
+iso dumbbell fly 12kgx25secs
+one arm hang 7kgx5secs
+standing broad jump 2rowx4, 2 and 1/4 rows x 4
+
+
+Week 2-Monday-18-03-2024
+front sled 125kgx2
+tricep pushdown 26.1kgx4, 27.3kgx4
+barbell back squat(s) 92.5kgx2, 97.5kgx2
+barbell military press(s) 65kgx2, 70kgx2 (failed)
+banded neck rotation(s) greenbandx4x2
+single leg seated calf raise(s) 83.6x2, 86kgx2 (difficult for full rom)
+max two arm hang 60kgx10secsx4 ( progress)
+
+Incline Machine Press(s) 45kgx2, 50kgx2
+Barbell Deficit Sumo Deadlift(s) 70kgx2, 120kgx2 ( difficult - lower )
+sitting box jump 44inchx4x2 (12inch box - perform again Cleaner ) 
+
+Week 2-Tuesday-19-03-2024
+side sled 95kgx2
+tricep overhead 19kgx4x2
+peterson step up 55kgx2
+two leg iso nordic hamstring curl 24inchx20secs
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 60kgx25secs
+iso barbell deadlift 60kgx25secs
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 75kgx20secs
+one arm hang 8kgx5secs
+max speed backwards sprinting - 17.6kphx10secs, 18kphx10secs,18.3kphx10secs, 18.5kphx10secs
+
+Week 2-Wednesday-20-03-2024
+front sled 125kgx2
+tricep pushdown 26.1kgx4, 27.3kgx4
+hanging leg raise(s) 2kgx2, 3kgx2
+one arm dumbbell row(s) 44kgx2, 46kgx2 
+back barbell atg split squat(s) 55kgx2, 57.5kgx2
+weighted pidgeon(s) 20kgx2x2
+powel raise(s) 14kgx2x2
+medium two arm hang 27.5kgx20secs
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 2-Thursday-21-03-2024
+front sled 125kgx2
+tricep pushdown 26.1kgx4, 27.3kgx4
+back barbell cossack squat(s) 55kgx2x2
+one legged leg press(s) 45kgx2x2
+dumbbell jefferson curl(s) 36kgx2, 38kgx2
+push ups(s) 45kgx2x2
+hip adductor machine(s) 73kgx2x2
+hip abduction machine(s) 73kgx2, 75.3kgx2
+dumbbell ulnar deviation(s) 16kgx4, 18kgx4
+dumbbell radial deviation(s) 16kgx4, 18kgx4
+heavy two arm hang 36.25kgx15secsx4(difficult)
+
+Week 2-Friday-22-03-2024
+side sled 92.5kgx2
+tricep overhead 19kgx4x2
+peterson iso step up 27.5kgx20secs
+one leg iso lying hamstring curl 34kgx20secs(difficult)
+iso single leg monkey foot 16kgx25secs ( difficult)
+iso lat pull down machine 54.3kgx20secs
+iso pistol squat 1kgx25secs
+iso 90-90 hip push press 12kgx20secs
+iso cable external rotation 8kgx25secs
+one arm hang 8kgx5secs
+single leg depth drop 36kgx4 , 39kgx4 (difficult )
+max incline side sprinting  8.0kphx10secs,, 8.2kphx10secs,8.4kphx10secs
+
+Week 2-Saturday-23-03-2024
+front sled 125kgx2
+tricep pushdown 26.1kgx4,27.3kgx4
+back extension one leg(s) 26kgx2,28kgx2 (increase ROM and hold at top )
+reverse curl(s) 30kgx2, 35kgx2 (difficult failed , regress)
+barbell preacher curl(s)35kgx2x2
+overhead walk(single)  40kg x30 secs ,42kgx30secs (difficult)
+ab machine(s) 50kgx4, 52.5kgx4
+front barbell shrug(s) 70kgx2, 75kgx2
+row machine(s) 30kgx2,31.25kgx2
+light two arm hang 20kgx25secsx4
+max incline forward sprinting 15inclinex19.3kphx 10secs, 15inclinex19.5kphx10secs,15inclinex19.7kphx10sec
+
+
+
+
+Week 2-Sunday-24-03-2024
+side sled 92.5kgx2
+tricep overhead 17kgx4, 19kgx4
+two leg seated hamstring curl 70.6kgx2
+iso wrist rotation 12kgx2
+iso barbell jefferson curl 60kgx25secs( aim to do on bench for larger rom)
+iso two legged leg press 35kgx25secs (manual machine)
+iso tricep extension 25kgx20secs
+iso back extension one leg 18kgx25secs
+iso chin ups 22.5kgx25secs
+iso dumbbell shrug 38kgx20secs
+iso rear delt fly 8kgx25secs
+one arm hang 7kgx5secs
+running broad jump 2.75linesx4, 3 lines x2
+
+Week 3-Monday-25-03-2024
+front sled 127.5kgx2
+tricep pushdown 26.1kgx4,27.3kgx4
+
+Barbell Deficit Romanian Deadlift(s) 100kgx2,102.5kgx2
+dumbbell jump squat(p) 42kgx2x2
+behind the neck press(s) 55kgx2, 60kgx2 (fail)
+barbell bench press(s) 92.5kgx2,95kgx2
+barbell wrist flexion(s) 27.5kgx2, 30kgx2( increase ROM)
+barbell wrist curl(s) 27.5kgx2, 30kgx2( increase ROM)
+two leg dumbbell tibialis raise(s) 42kgx2,x2 (lower weight)
+max two arm hang 61.25kgx10secsx4 ( progress)
+two leg hops 27.5kgx4x3
+
+Week 3-Tuesday-26-03-2024
+side sled 95kgx2
+tricep overhead 19kgx4, 21kgx4
+peterson step up 57.5kgx2
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell back squat 50kgx25secs
+iso dumbbell press 24kgx25secs
+iso dumbbell bench press 36kgx20secs
+iso dumbbell romanian deadlift 36kgx20secs
+iso dumbbell wrist flexion 14kgx25secs
+iso dumbbell wrist curl 14kgx25secs(
+iso one leg tibialis raise 36kgx20secs
+one arm hang 9kgx5secs
+max incline forward sprinting 15inclinex19.3kphx 10secs, 15inclinex19.6kphx10secs,15inclinex19.8kphx10secs
+
+Week 3-Wednesday-27-03-2024
+front sled 127.5kgx2
+tricep pushdown 27.3kgx4x3
+two legged reverse squat(s) 30kgx4x3
+dumbbell pullover(s) 34kgx2,36kgx2
+front barbell atg split squat(s) 52.5kgx2, 55kgx2
+weighted butterflys(s) 34kgx4x2
+external dumbbell rotation(s) 8kgx2x2
+medium two arm hang 30kgx20secsx4
+standing single leg box jump 36inchx4[no step], 40inchx2 [diffcult, with step]
+
+Week 3-Thursday-28-03-2024
+front sled 127.5kgx2
+tricep pushdown 27.3kgx4x2
+front barbell cossack squat(s) 50kgx2, 52.5kgx2
+one legged leg extension(s)45kgx2 , 47.3kgx2
+penlay row(p) 85kgx2x2
+french press(s) 30kgx2,32.5kgx2
+hip external and internal rotation(s) 14kgx2x2
+barbell shoulder rotation(s) 5kgx4(wide) , 5kgx2
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max speed side sprinting 9.5kphx10secs, 10.5kphx10secs,11kphx10secs
+
+Week 3-Friday-29-03-2024
+side sled 92.5kgx2
+tricep overhead 19kgx4,21kgx4
+peterson step up 60kgx2(difficult )
+one leg lying hamstring curl 34.3kgx2
+iso one leg reverse squat 23.8kgx25secs (difficult)
+iso pull ups 25kgx20secs
+iso dumbbell atg split squat 52kgx20secs
+iso cable pancake 30.4kgx20secs ( increase ROM)
+iso atg dumbbell external rotation 12kgx25secs (difficult) ( do 15 secs next time ) 
+one arm hang 9kgx5secs
+two leg depth drop  48inchx4x2
+
+Week 3-Saturday-30-03-2024
+front sled 127.5kgx2
+tricep pushdown 27.3kgx4x2
+two legged hip thrust(s) ,135kgx2, 145kgx2
+barbell curl(s) 52.5kgx2x2
+side farmer walk(single) 40kgx30secs,42kgx30secs
+
+farmer walk(double) 42kgx30secs,44kgx30secs
+landmine rotation(s) 50kgx2,51.25kgx2
+
+Barbell back Squat(s) 95kgx2, 100kgx2 (difficult) 
+trap 3 raise(s) 9kgx2,10kgx2(diffiicult)
+dumbbell fly(s) 14kgx2, 16kgx2 (difficult)
+light two arm hang 20kgx25secsx4
+max incline backward sprinting 11kphx10secs,11.2kphx10secs, 11.2kphx10secs
+
+Week 3-Sunday-31-03-2024
+side sled 92.5kgx2
+tricep overhead 19kgx4x2
+two leg iso seated hamstring curl 39kgx25sec( middle difficuly )
+iso dumbbell cossack squat 34kgx20secs
+iso two legged leg extension 52kgx20secs
+iso seated good morning 50kgx25secs
+iso dips 5kgx20secs
+iso cable hip adduction 12kgx25secs
+iso cable hip abduction 11.25kgx20secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 50kgx25secs ( difficult on right leg )
+iso incline dumbbell curl 22kgx20secs
+iso incline dumbbell hammer curl 24kgx15secs (difficult )
+iso ql extension 36kgx20secs
+iso lateral dumbbell raise 12kgx15secs
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 23.8kgx25secs
+one arm hang 8kgx5secs
+standing broad jump 2rowx4, 2 and 1/4 rows x 4
+
+Week 4-Monday-01-04-2024
+front sled 130kgx2
+tricep pushdown 27.3kgx4,28.4kgx4
+barbell front squat(s) 85kgx2, 87.5kgx2
+landmine split jerk(p) 55kgx2, 56.25kgx2 (difficult failed )
+incline barbell press(s) 87.5kgx2x2
+barbell deficit deadlift(s)82.5kgx2X2
+banded neck sides(p) greenbandx4x2
+single leg standing calf raise(s)  70kgx2
+#max two arm hang 65kgx10secsx4 ( progress)
+sitting box jump 44inchx4x2 (12inch box - perform again cleaner )
+
+
+
+Week 4-Tuesday-02-04-2024
+side sled 100kgx2
+tricep overhead 19kgx4,21kgx4
+iso hack squat 30kgx20secs ( lower weight )
+two leg iso nordic hamstring curl 24inchx20secs
+iso barbell military press 52.5kgx25secs ( difficult)
+iso incline dumbbell press 30kgx25secs
+iso dumbbell sumo deadlift 36kgx25secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 79kgx25secs
+one arm hang 8kgx5secs
+max speed backwards sprinting - 17.6kphx10secs, 18kphx10secs,18.3kphx10secs, 18.5kphx10secs
+
+Week 4-Wednesday-03-04-2024
+front sled 130kgx2
+tricep pushdown 27.4x4x2
+single leg monkey foot(s) 20kgx2, 24kgx1
+lat pull down machine(s)  61.3kgx2 , 63.4kgx2
+pistol squat(s) 12kgx2,14kgx2
+90-90 hip push press(s) 18kgx2,20kgx2
+cable external rotation(s) 8kgx2x2 ( increase ROM)
+medium two arm hang 27.5kgx20secs
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 4-Thursday-04-04-2024
+front sled 130kgx2
+tricep pushdown 27.3kgx4x2
+two legged leg press(s) 107kgx2,109.3kgx2
+barbell jefferson curl(s)  80kgx2,82.5kgx2 (difficult )
+tricep extension(s) 40kgx2,45kgx2
+lateral step up(s) 44kgx2 to 24 inch,46kgx2 to 24inch (difficult )
+wrist rotation(s) , 14kgx2, 16kgx2(difficult )
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max incline side sprinting  8.0kphx10secs,, 8.2kphx10secs,8.4kphx10secs
+
+Week 4-Friday-05-04-2024
+side sled 100kgx2
+tricep overhead 19kgx4, 21kgx4
+peterson iso step up 27.5kgx25secs
+one leg iso lying hamstring curl 34kgx20secs
+iso hanging leg raise 2kgx20secs (increase ROM)
+iso one arm dumbbell row 36kgx20secs
+iso back barbell atg split squat 42.5kgx20secs
+iso weighted pidgeon 30kgx20secs
+iso powel raise 10kgx25secs
+one arm hang 9kgx5 secs
+single leg depth drop 36kgx4 , 39kgx4 
+
+Week 4-Saturday-06-04-2024
+front sled 130kgx1
+tricep pushdown 27.3kgx2 x2
+back extension(s) 45kgx2x2
+chin ups(s) 31.25kgx2x2
+side overhead walk(single) 38kgx30secs, 40kg x30 secs (difficult )
+dumbbell shrug(s) 46kgx2x2
+rear delt fly(s) 8kg x2x2 ( increase ROM)
+light two arm hang 20kgx25secsx4
+max incline forward sprinting 15inclinex19.3kphx 10secs, 15inclinex19.5kphx10secs,15inclinex19.7kphx10secs,
+
+Week 4-Sunday-07-04-2024
+side sled 100kgx1
+tricep overhead 21kgx2x2
+two leg seated hamstring curl 73kgx2
+iso back barbell cossack squat 45kgx15secs
+iso one legged leg press 26kgx15secs
+iso dumbbell jefferson curl 40kgx15secs
+iso push ups 22.5kgx20secs
+iso hip adductor machine 68kgx15secs
+iso hip abduction machine 
+iso dumbbell ulnar deviation 20kgx15secs
+iso dumbbell radial deviation 20kgx15secs (increase ROM)
+iso back extension one leg 20kgx15secs
+iso reverse curl 32.5kgx15secs
+iso barbell preacher curl 37.5kgx15secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 40kgx15secs
+iso row machine 37.5kgx15secs (difficult)
+one arm hang 8kgx5secs
+running broad jump 2.75linesx4, 3 lines x2
+
+
+
+
+
+Frontal Dumbbell Raise(s) not found
+
+Week 5-Monday-08-04-2024
+
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28.4kgx2
+barbell push press(p) 70kgx2,75kgx2
+
+Dumbbellp Bench Press(s) 40kgx2, 42kgx2
+dumbbell sumo deadlift(s) 34kgx2x2
+dumbbell wrist flexion(s) 12kgx2x2
+dumbbell wrist curl(s) 12kgx2x2
+one leg tibialis raise(s) 42kgx2x2
+max two arm hang 66.25kgx10secsx4 ( progress)
+two legged box jump 44inchx4 [step before jumping-redo], 44inchx4 ( no step )
+
+Week 5-Tuesday-09-04-2024
+side sled 100kgx1
+tricep overhead 21kgx2,24kgx2
+peterson step up 60kgx2
+single leg nordic hamstring curl greenbandx21inchx2
+iso hack squat 30kgx15secs
+iso barbell military press 55kgx15secs
+iso incline dumbbell press 32kgx15secs
+iso dumbbell sumo deadlift 36kgx25secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 79kgx25secs
+one arm hang 10kgx5secsx4
+max approach jumping 46inchx4x2
+
+Week 5-Wednesday-10-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2, 28.4kgx2
+one leg reverse squat(s) 23kgx2, 26kgx2 ( difficult)
+pull ups(s)27.5kgx2, 30kgx2
+dumbbell atg split squat(s) 56kgx2, 60kgx2 
+cable pancake(s) 28kgx2, 30kgx2 ( increase rom )
+atg dumbbell external rotation(s) 16kgx2x2
+medium two arm hang 30kgx20secs
+single leg hop 40kgx4x2
+
+Week 5-Thursday-11-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28kgx2
+dumbbell cossack squat(s) 44kg x2, 46kgx2
+two legged leg extension(s) 81.3kgx2, 82.4kgx2 
+seated good morning(s) 75kgx2, 80kgx2
+dips(s)  10kgx2x2
+cable hip adduction(s) , 14kg x2, 15.25kgx2
+cable hip abduction(s) ,12kgx2, 13.25kgx2
+neck upwards 10kgx20secs
+neck downwards 10kgx20secs
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max speed backwards sprinting - 17.6kphx10secs, 18kphx10secsx2
+
+Week 5-Friday-12-04-2024
+side sled 100kgx1
+tricep overhead 21kgx2,24kgx2
+peterson iso step up 30kgx15secs
+two leg iso lying hamstring curl 47.3kgx15secs
+iso hanging leg raise 2kgx20secs (increase rom)
+iso one arm dumbbell row 38kgx15secs
+iso back barbell atg split squat 45kgx15secs
+iso weighted pidgeon 32kgx15secs
+iso powel raise 12kgx15sevs
+one arm hang 10kgx5secs
+single lateral jump 2linesx4x2
+
+Week 5-Saturday-13-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28.4kgx2
+one leg hip thrust(s) 60kgx2x2
+incline dumbbell hammer curl(s) 24kgx2x2
+farmer walk(double) 44kgx30secsx2 (difficult)
+ql extension(s) 36kgx2,38kgx2
+face pulls(s) 28.4kgx2, 29.6kgx2
+
+Lateral Cable Raise(s) 6kgx2, 7kgx2
+light two arm hang 20kgx25secsx4
+max incline side sprinting   8.2kphx10secs,8.6kphx10secs
+
+Week 5-Sunday-14-04-2024
+side sled 101.25kgx1
+tricep overhead 24x2x2
+one leg iso seated hamstring curl 27kgx15secs
+iso back barbell cossack squat 45kgx20secs
+iso one legged leg press 26kgx20secs
+iso dumbbell jefferson curl 40kgx20secs
+iso hip adductor machine 68kgx15secs
+iso hip abduction machine 68kgx20secs
+iso dumbbell ulnar deviation 20kgx15secs
+iso dumbbell radial deviation 20kgx15secs (increase rom)
+iso reverse curl 32.5kgx15secs
+iso barbell preacher curl 37.5kgx20secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 40kgx20secs
+iso row machine 37.5kgx15secs (difficult)
+one arm hang 12kgx5secs(fail)
+bounding 5hopsx2 [each leg]
+
+
+Week 6-Monday-15-04-2024
+front sled 135kgx1
+tricep pushdown 28.4kgx2x2
+hack squat(s) 30kgx2, 40kgx2
+barbell split jerk(p), 70kgx2, 75kgx2
+
+Barbell Sumo Deadlift(s) 120kgx2, 140kg2
+incline dumbbell press(s) 40kgx2, 42kgx2 ( difficult)
+banded neck rotation(s) greenbandx4x2
+single leg seated calf raise(s) 83.6x2, 86kgx2 (difficult for full rom)
+max two arm hang 66.25kgx10secsx4 ( progress)
+two leg depth jump 12inch to 44inchx4x2 ( difficult - technique required ) - difficult failed
+
+Week 6-Tuesday-16-04-2024
+side sled 101.25kgx1
+tricep overhead 24x2x2
+peterson step up 62.5kgx2
+one leg iso nordic hamstring curl not found
+iso barbell front squat 52.5kgx15secs
+iso behind the neck press 52.5kgx15secs (difficult ) 
+
+iso barbell bench press 72.5kgx15secs
+iso barbell romanian deadlift 62.5kgx15secs
+iso barbell wrist flexion 30kgx15secs
+iso barbell wrist curl 30kgx15secs
+iso two leg dumbbell tibialis raise 26kgx25secs
+one arm hang 12kgx5secs(fail)
+max speed side sprinting 10.5kphx10secs,11.2kphx10secs
+
+Week 6-Wednesday-17-04-2024
+front sled 135kgx1
+
+One Arm Cable Row(s) 52kgx2, 59kgx2
+tricep pushdown 28.4kgx2x2
+hanging leg raise(s) 4kgx2x2
+back barbell atg split squat(s) 60kgx2x2 (difficult )
+weighted pidgeon(p) 16kgx4x2 [both internal and external rotaiton]
+powel raise(s) 14kgx2, 16kgx2 (difficult -redo without rotation)
+medium two arm hang 30kgx20secs
+single leg depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 6-Thursday-18-04-2024
+front sled 15kgx1
+tricep pushdown 28.4kgx2x2
+back barbell cossack squat(s) 55kgx2, 60kgx2
+one legged leg press(s) 45kgx2, 47.3kgx2 
+dumbbell jefferson curl(s) 40kgx2x2
+hip adductor machine(s) 75.3kgx2,76.4kgx2
+
+Machine incline Press(p) 100kgx2, 110kgx2
+hip abduction machine(s) 73kgx2, 76.4kgx2
+dumbbell ulnar deviation(s) 16kgx2, 18kgx2
+dumbbell radial deviation(s) 16kgx2, 18kgx2
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max incline backwards sprinting 10.5kphx10secs, 11.2kphx10secs ( difficuly - about to fall)
+
+Week 6-Friday-19-04-2024
+side sled 102.kgx1
+tricep overhead 24x2x2
+iso peterson step up 30kgx15secs
+two leg lying hamstring curl 67kgx2
+iso reverse squat 34kgx20secs
+iso dumbbell pullover 28kgx15secs
+iso front barbell atg split squat 45kgx15secs
+iso weighted butterflys 40kgx20secs
+iso external dumbbell rotation 8kgx15secs
+one arm hang 12kgx5secs
+pjf lateral hop 20inchx12kgx4x2
+
+Week 6-Saturday-20-04-2024
+front sled 132.5kgx1
+
+Barbell Spider Curl(s) 35kgx2, 40kgx2 ( failed )
+tricep pushdown 28.4kgx2x2
+back extension one leg(s) 26kgx2,28kgx2 (increase rom and hold at top )
+reverse curl(s) 32.5kgx2, 35kgx2 
+overhead walk(double) 34kgx30secsx 2 (difficult both times )
+ab machine(s) 50kgx4, 52.5kgx4
+back barbell shrug(s) 70kgx2,72.5kgx2
+row machine(s) 31.25kgx2, 32.5kgx2
+light two arm hang 20kgx25secsx4
+max approach jumping 46inchx4x2
+
+
+
+Week 6-Sunday-21-04-2024
+side sled 101.25kgx1
+tricep overhead 24x2x2
+one leg seated hamstring curl 32kgx2
+iso back barbell cossack squat 45kgx20secs
+iso one legged leg extension 32kgx20secs
+iso dumbbell jefferson curl 40kgx20secs
+iso push ups 22.5kgx20secs
+iso hip adductor machine 68kgx15secs
+iso hip abduction machine 68kgx20secs
+iso dumbbell ulnar deviation 20kgx15secs
+iso dumbbell radial deviation 20kgx15secs (increase rom)
+iso back extension one leg 20kgx15secs
+iso reverse curl 32.5kgx15secs
+iso barbell preacher curl 37.5kgx20secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 40kgx20secs
+iso row machine 37.5kgx15secs (difficult)
+one arm hang 12kgx5secs(fail)
+alternate bounding 5hopsx2 [each leg]
+
+Week 7-Monday-22-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28.4kgx2
+squat clean(p) - 60kgx2x2
+behind the neck push press(p) 55kgx2, 60kgx2 ( difficult)
+barbell bench press(s) 92.5kgx2,97.5kgx2 ( difficult)
+barbell romanian deadlift(s) 100kgx2, 105kgx2
+barbell wrist flexion(s) 27.5kgx2, 30kgx2( increase rom)
+barbell wrist flexion(s) 27.5kgx2, 30kgx2( increase rom)
+two leg dumbbell tibialis raise(s) 42kgx2,x2 (lower weight)
+max two arm hang 70kgx10secsx4
+two legged box jump 44inchx4 [step before jumping-redo], 44inchx4 ( no step )
+
+Week 7-Tuesday-23-04-2024
+side sled 102.5kgx2
+tricep overhead 24kgx2,26kgx2
+peterson step up 62.5kgx2
+one leg nordic hamstring curl 30inch x2
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 62.5kgx15secs
+iso barbell deadlift 62.5kgx15secs
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 80kg x15secs
+one arm hang 12kgx5secs(fail)
+max approach jumping 45inchx4x2
+
+Week 7-Wednesday-24-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28.4kgx2
+two legged reverse squat(s) 30kgx4x3
+front barbell atg split squat(p) 50kgx2,55kgx2 (difficult)
+weighted butterflys(s) 34kgx4x2
+external dumbbell rotation(s) 8kgx2x2
+medium two arm hang 30kgx20secs
+single leg hop 40kgx4x2
+
+Week 7-Thursday-25-04-2024
+front sled 137.5kgx1
+tricep pushdown 28.4kgx2x2
+front barbell cossack squat(s) 50kgx2, 52.5kgx2
+one legged leg extension(s)47.3kgx2, 48.4kgx2 (difficult)
+barbell back row(s) 75kgx2, 80kgx2( difficult - regress )
+french press(p) 30kgx2, 32.5kgx2
+hip external and internal rotation(s) 14kgx2x2
+barbell shoulder rotation(p) 5kgx4x2
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max speed backwards sprinting - 17.6kphx10secs, 18kphx10secsx2
+
+Week 7-Friday-26-04-2024
+side sled 102.5kgx1
+tricep overhead 24x2x2
+peterson iso step up 30kgx15secs
+two leg iso lying hamstring curl 47.3kgx20secs
+iso single leg monkey foot 20kgx15secs ( difficult)
+iso lat pull down machine 55.3kgx15sec
+iso pistol squat 2kgx15secs
+iso 90-90 hip push press 12kgx20secs
+iso cable external rotation 10kgx15secs ( increase ROM)
+one arm hang 12kgx5secs(fail)
+single lateral jump 2linesx4x2
+
+Week 7-Saturday-27-04-2024
+front sled 132.5kgx1
+tricep pushdown 27.3kgx2,28.4kgx2
+two legged hip thrust(s) ,135kgx2, 145kgx2
+barbell curl(s) 52.5kgx2x2
+side farmer walk(double) 42kgx30secsx2
+landmine rotation(p) 50kgx2, 52kgx2
+trap 3 raise(s) 9kgx2,10kgx2(diffiicult)
+light two arm hang 20kgx25secsx4
+depth drop 36kgx4 , 39kgx4
+max incline side sprinting   8.2kphx10secs,8.6kphx10secs
+
+Week 7-Sunday-28-04-2024
+side sled 101.25kgx1
+tricep overhead 24x2x2
+iso two legged leg press 35kgx25secs (manual machine)
+iso wrist rotation 12kgx2
+one leg iso seated hamstring curl 27kgx15secs
+iso barbell jefferson curl 60kgx25secs( aim to do on bench for larger rom)
+iso tricep extension 25kgx20secs
+iso back extension one leg 20kgx15secs
+iso chin ups 22.5kgx25secs
+iso dumbbell shrug 40kgx20secs
+iso rear delt fly 8kgx25secs
+one arm hang 12kgx5secs(fail)
+bounding 5hopsx2 [each leg]
+
+
+
+Week 8-Monday-29-04-2024
+front sled 137.5kgx1
+tricep pushdown 28.4kgx2, 29.6kgx2
+reverse nordic(s) 0kgx2x2
+incline barbell press(s) 87.5kgx2, 90kgx2
+barbell deadlift(s) 140kgx2, 142.5kgx2
+banded neck sides(s) greenbandx4x2
+single leg standing calf raise(p) 70kgx2
+max two arm hang 70kgx10secsx4
+depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Tuesday-30-04-2024
+side sled 102.kgx1
+tricep pushdown 28.4kgx2x2
+peterson step up 30kgx15secs
+one leg iso nordic hamstring curl not found
+iso barbell back squat 50kgx25secs
+iso barbell military press 55kgx15secs
+iso dumbbell bench press 36kgx20secs
+iso dumbbell romanian deadlift 36kgx20secs
+iso dumbbell wrist flexion 14kgx25secs
+iso dumbbell wrist curl 14kgx25secs(
+iso one leg tibialis raise 36kgx20secs
+one arm hang 12kgx5secs
+max speed side sprinting 10.5kphx10secs,11.2kphx10secs
+
+Week 8-Wednesday-01-05-2024
+front sled 137.5kgx1
+tricep pushdown 28.4kgx2, 29.6kgx2
+single leg monkey foot(s) 20kgx2x2
+lat pull down machine(s)  66kgx2, 73kgx2
+pistol squat(p) 5kgx2, 6kgx2
+90-90 hip push press(p) 20kgx4x2
+cable external rotation(s) 8kgx2, 9.25kgx2
+medium two arm hang 30kgx20secs
+single leg depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Thursday-02-05-2024
+front sled 137.5kgx1
+tricep pushdown 28.4kgx2, 29.6kgx2
+two legged leg press(p) 107kgx2, 110.4kgx2
+barbell jefferson curl(s)  80kgx2,85kg (difficult )
+muscle up(p) 0kg [failed attempts]
+lateral step up(s) 44kgx2 to 24 inch,46kgx2 to 24inch (difficult )
+wrist rotation(p) 16kgx2x2 (difficult,increase rom)
+heavy two arm hang 36.25kgx15secsx4(difficult)
+max incline backwards sprinting 10.5kphx10secs, 11.2kphx10secs 
+
+Week 8-Friday-03-05-2024
+side sled 105kgx1
+tricep pushdown 28.4kgx2x2
+peterson iso step up 30kgx15secs
+two leg lying hamstring curl 68kgx2
+iso one leg reverse squat 23.8kgx25secs (difficult)
+iso pull ups 26.25kgx15secs
+iso dumbbell atg split squat 56kgx15secs
+iso cable pancake 30.4kgx20secs ( increase rom)
+iso atg dumbbell external rotation 14kgx15secs (difficult)
+one arm hang 12kgx3secs
+pjf lateral hop 20inchx12kgx4x2
+
+Week 8-Saturday-04-05-2024
+front sled 137.5kgx1
+tricep pushdown 28.4kgx2x2
+back extension(s) 45kgx2, 47.5kgx2
+chin ups(p) 31.25kgx2
+side overhead walk(double)32kgx30secs, 34kgx30secs ( difficuly )
+dumbbell shrug(s) 48kgx2x2
+rear delt fly(p) 8kgx2, 9kgx2
+light two arm hang 20kgx25secsx4
+max approach jumping 46inchx4x2
+
+Week 8-Sunday-05-05-2024
+side sled 105kgx1
+tricep overhead 28.4kgx2x2 ( difficult)
+one leg seated hamstring curl 34.3kgx2
+iso dumbbell cossack squat 36kgx15secs
+iso two legged leg extension 54kgx15secs
+iso seated good morning 52.5kgx15secs
+iso dips 6.25kgx15secs
+iso cable hip adduction 14kgx15secs
+iso cable hip abduction 12kgx15secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 52.5kgx15secs
+iso incline dumbbell curl 24kgx15secs
+iso incline dumbbell hammer curl 24kgx15secs (difficult )
+iso ql extension 38kgx15secs
+iso lateral dumbbell raise 12kgx20secs (difficult)
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 26.1kgx15secs
+one arm hang 12kgx3secs
+alternate bounding 5hopsx2 [each leg]
+
+
+
+Week 1-Monday-06-05-2024
+front sled 140kgx1
+tricep pushdown 28.4kgx2,29.6kgx2
+jump barbell back squat(p) 57.5kgx4, 60kgx4
+standing dumbbell press(s) 32kgx2x2
+dumbbell bench press(p) 22kgx2x2
+dumbbell romanian deadlift(s) 38kgx2 , 40kgx 2 (increase rom)
+dumbbell wrist flexion(p) 7kgx2x2
+dumbbell wrist curl(p) 7kgx2x2
+one leg tibialis raise(s) 38kgx2, 40kgx2
+max two arm hang 70kgx10secsx4
+two leg hops 27.5kgx4x3
+
+Week 1-Tuesday-07-05-2024
+side sled 107.5kgx2
+tricep overhead 28.4kgx2x2
+peterson step up 65kgx2 ( difficuly - failed )
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell front squat 52.5kgx20secs
+iso behind the neck press 52.5kgx20secs(difficult )
+iso barbell bench press 72.5kgx20secs
+iso barbell romanian deadlift 62.5kgx20secs
+iso barbell wrist flexion 30kgx20secs
+iso barbell wrist curl 30kgx20secs
+iso two leg dumbbell tibialis raise 26kgx25secs
+one arm hang 12kgx3secs
+max incline forward sprinting 115inclinex19.5kphx10secs,15inclinex20kphx10secs ( difficult)
+
+Week 1-Wednesday-08-05-2024
+front sled 140kgx1
+tricep pushdown 28.4kgx2, 29.6kgx2
+one leg reverse squat(p) 19kgx2x2
+pull ups(p) 10kgx4x2
+dumbbell atg split squat(s) 60kgx2x2
+cable pancake(s) 28kgx2, 30kgx2 ( increase rom )
+atg dumbbell external rotation(p) 8kgx2x2
+medium two arm hang 30kgx20secs
+standing single leg box jump 36inchx4[no step] x2 ( difficult )
+
+Week 1-Thursday-09-05-2024
+front sled 140kgx1
+tricep pushdown 28.4kgx2, 29.6kgx2
+dumbbell cossack squat(s) 46kgx2,48kgx2
+two legged leg extension(s) 86kgx2,90.6kgx2
+seated good morning(p) 45kgx4x2
+dips(s)  10kgx2,12.5kgx2
+cable hip adduction(p) 6kgx4x2
+cable hip abduction(p) 6kgx4x2
+neck upwards 10kgx20secs
+neck downwards 10kgx20secs
+heavy two arm hang 36.25kgx15secsx4
+max speed side sprinting 10.5kphx10secs,11.2kphx10secs
+
+Week 1-Friday-10-05-2024
+side sled 107.5kgx1
+tricep overhead 28.4kgx2x2
+peterson iso step up 30kgx20secs
+one leg lying hamstring curl 36.3kgx2
+iso reverse squat 34kgx20secs
+iso dumbbell pullover 28kgx20secs ( difficult)
+iso front barbell atg split squat 50kgx15secs
+iso weighted butterflys 40kgx20secs
+iso external dumbbell rotation 8kgx20secs
+one arm hang 12kgx4secs
+two leg depth drop  48inchx4,51inchx4
+
+Week 1-Saturday-11-05-2024
+front sled 140kgx1
+tricep pushdown 28.4kgx2,29.6kgx2
+one leg hip thrust(p) 30kgx2x2
+incline dumbbell curl(s) 22kgx2, 24kgx1 (failed at second rep )
+incline dumbbell hammer curl(p) 14kgx4x2
+farmer walk(single) 42kgx30secsx2 ( difficult )
+ql extension(p) 20kgx2x2
+lateral dumbbell raise(s) 14kgx2, 16kgx1 (failed ) 
+frontal dumbbell raise(p) 7kgx2x2
+face pulls(s) 28.4kgx2, 29.6kgx2
+light two arm hang 20kgx25secsx4
+max incline backward sprinting 11kphx10secs,11.4kphx10 secs ( difficult )
+
+Week 1-Sunday-12-05-2024
+side sled 107.5kgx2
+tricep overhead 28.4kgx2x2
+two leg iso seated hamstring curl 41.3kgx15secs
+iso front barbell cossack squat 35kgx15secs
+iso one legged leg extension 34.3kgx15secs
+iso barbell back row 52.5kgx15secs
+iso french press 20kgx15secs
+iso hip external and internal rotation 12kgx15secs
+iso two legged hip thrust 82.5kgx15secs
+iso barbell curl 40kgx15secs
+iso landmine rotation 32.5kgx20secs
+iso trap 3 raise 7kgx20secs ( difficult )
+iso dumbbell fly 14kgx15secs
+one arm hang 12kgx3secs
+standing broad jump 2rowx4, 2 and 1/4 rows x 4
+
+
+
+Week 2-Monday-13-05-2024
+front sled 142.5kgx1
+tricep pushdown 29.6kgx2, 30kgx2
+barbell back squat(s) 97.5kgx2, 102.5kgx2
+barbell push press(p) 75kgx2, 77.5kgx2 ( difficult )
+dumbbell bench press(s) 42kgx2x2 
+dumbbell romanian deadlift(p) 20kgx4x3
+dumbbell wrist flexion(s) 12kgx2, 14kgx2
+dumbbell wrist curl(s) 12kgx2, 14kgx2
+one leg tibialis raise(p) 20kgx3x3
+max two arm hang 70kgx10secsx4
+two legged box jump 42inchx4 [step before jumping-redo] 45inchx4 ( no step )
+
+Week 2-Tuesday-14-05-2024
+side sled 110kgx1
+tricep overhead 28.4kgx2,29.6kgx2
+peterson step up 65kgx2
+single leg nordic hamstring curl greenbandx21inchx2
+iso hack squat 30kgx20secs
+iso barbell military press 55kgx20secs
+iso incline dumbbell press 32kgx20seca
+iso dumbbell sumo deadlift 38kgx15secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 79kgx25secs
+one arm hang 12kgx4secs
+max approach jumping 46inchx4x2
+
+Week 2-Wednesday-15-05-2024
+front sled 142.5kgx1
+tricep pushdown 29.6kgx2, 30.6kgx2
+one leg reverse squat(s) 23kgx2, 26kgx2 ( difficult - increase ROM)
+pull ups(s)30kgx2, 31.25kgx2
+dumbbell atg split squat(p) 20kgx4x2
+cable pancake(p) 21kgx4x2
+atg dumbbell external rotation(s) 16kgx2x2( increase next time )
+medium two arm hang 30kgx20secs
+single leg hop 40kgx4x2
+
+Week 2-Thursday-16-05-2024
+front sled 140kgx1
+tricep pushdown 28.4kgx2,29.6kgx2
+dumbbell cossack squat(s) 48kgx2, 50kgx2
+two legged leg extension(p) 73kgx2, 79kgx2
+seated good morning(s) 70kgx2, 82.5kgx2
+dips(p) 5kgx2, 7.5kgx2
+cable hip adduction(s)  15.25kgx2x2
+cable hip abduction(s) 13.25kgx2x2
+neck upwards 10kgx20secs
+neck downwards 10kgx20secs
+heavy two arm hang 36.25kgx15secsx4 (progress)
+max speed backwards sprinting - 17.8kphx10swcs, 18.3kphx10secs, 18.6kphx10secs
+
+Week 2-Friday-17-05-2024
+side sled 107.5kgx2
+tricep overhead 28.4kgx2,30kgx2
+peterson iso step up 30kgx20secs
+two leg iso lying hamstring curl 50kgx15secs
+iso hanging leg raise 3kgx15secs (increase rom)
+iso one arm dumbbell row 38kgx20secs
+iso back barbell atg split squat 45kgx20secs
+iso weighted pidgeon 32kgx20secs
+iso powel raise 12kgx20secs ( difficult)
+one arm hang 12kgx4secs
+single lateral jump 2linesx4
+
+Week 2-Saturday-18-05-2024
+front sled 142.5kgx1
+tricep pushdown 29.6kgx2, 30kgx2
+one leg hip thrust(s) 60kgx2, 62.5kgx2
+incline dumbbell curl(p) 12kgx4x2
+incline dumbbell hammer curl(s) 24kgx2, 26kgx1 ( failed second rep )
+farmer walk(double) 42kgx30secs, 44kgx30secs
+ql extension(s) 38kgx2x2 ( progress to 40kg)
+lateral dumbbell raise(p) 7kgx4x3
+frontal raise(s) 10kgx2, 12kgx2 (progress)
+face pulls(p) 12kgx4x2
+light two arm hang 20kgx25secsx4
+max incline side sprinting   8.3kphx10secs,8.8kphx10secs
+
+Week 2-Sunday-19-05-2024
+side sled 107.5kgx2
+tricep pushdown 28.4kgx2,29.6kgx2
+peterson step up 65kgx2 ( difficuly - failed )
+one leg iso seated hamstring curl 27kgx15secs
+iso back barbell cossack squat 45kgx20secs
+iso one legged leg press 26kgx20secs
+iso dumbbell jefferson curl 40kgx20secs
+iso push ups 22.5kgx20secs
+iso hip adductor machine 68kgx15secs
+iso hip abduction machine 68kgx20secs
+iso dumbbell ulnar deviation 20kgx15secs
+iso dumbbell radial deviation 20kgx15secs (increase rom)
+one arm hang 12kgx3secs
+iso back extension one leg 20kgx15secs
+iso reverse curl 32.5kgx15secs
+iso barbell preacher curl 37.5kgx20secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 40kgx20secs
+iso row machine 37.5kgx15secs (difficult)
+one arm hang 12kgx3secs
+bounding 5hopsx2 [each leg]
+
+
+Week 3-Monday-20-05-2024
+front sled 145kgx1
+tricep pushdown 29.6kgx2, 30kgx2
+barbell military press(s) 67.5kgx2, 72.5kgx2 ( difficult)
+incline dumbbell press(p) 20kgx2x2
+dumbbell sumo deadlift(s) 36kgx2
+banded neck rotiation(p) greenbandx2x2
+single leg seated calf raise(s) 83.6x2, 86kgx2 (difficult for full rom)
+max two arm hang 71.25kgx10secs
+sitting box jump 42inchx4, 45inch (12inch box - perform again cleaner )
+
+Week 3-Tuesday-21-05-2024
+side sled 110kgx1
+tricep overhead ,29.6kgx2, 30kgx2
+peterson step up 65kgx2
+two leg iso nordic hamstring curl - 6 holes remaining 
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 65kgx15secs
+iso barbell deadlift 65kgx15secs?
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 80kg x15secs
+one arm hang 12kgx4secs
+max speed backwards sprinting - 18.3kphx10secs, 18.9kphx10secs
+
+Week 3-Wednesday-22-05-2024
+front sled 145kgx1
+tricep pushdown ,29.6kgx2, 30kgx2
+hanging leg raise(p) 2kgx2, 3kgx2
+one arm dumbbell row(p) 22kgx4x2
+back barbell atg split squat(s) 60kgx2x2, 62.5kgx2
+weighted pidgeon(s) 22kgx2, 24kgx2
+powel raise(p) 7kgx4x2
+medium two arm hang 30kgx20secs
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 3-Thursday-23-05-2024
+front sled 145kgx1
+tricep pushdown 29.6kgx2, 30kgx2
+back barbell cossack squat(s) 60kgx2, 62.5kgx2
+one legged leg press(s) 47.3kgx2 , 48.5kgx2
+dumbbell jefferson curl(p) 22kgx2x2
+push ups(s) 45kgx2x2
+hip adductor machine(p) 68.3kgx2,69.4kgx2
+hip abduction machine(p) 68.3kgx2, 73kgx2
+dumbbell ulnar deviation(s)  18kgx2x2
+dumbbell radial deviation(s)  18kgx2x2
+heavy two arm hang 36.25kgx15secsx4 (progress)
+
+Week 3-Friday-24-05-2024
+side sled 110kgx2
+tricep overhead 29.6kgx2, 30kgx2
+peterson iso step up 30kgx20secs
+one leg iso lying hamstring curl 36kgx15sece
+iso single leg monkey foot 20kgx15secs
+iso lat pull down machine 56.6kgx15secs
+iso pistol squat 2kgx20secs
+iso 90-90 hip push press 14kgx15secs
+iso cable external rotation 10kgx15secs ( increase rom - regress ) 
+one arm hang 12kgx4secs
+single leg depth drop 42inch x4x2 (difficult)
+max incline side sprinting   8.3kphx10secs,8.8kphx10secs
+
+Week 3-Saturday-25-05-2024
+front sled 145kgx1
+tricep pushdown,29.6kgx2, 30kgx2
+back extension one leg(p) 10kgx4x2
+reverse curl(s) 35kgx2x2
+barbell preacher curl(s)35kgx2, 37.5kgx2
+overhead walk(single)  40kg x30 secs,42kgx30secs
+ab machine(s) 53.5kgx2x2
+dumbbell shrug(p) 40kgx2,44kgx2
+row machine(s) 35kgx2, 40kgx2
+light two arm hang 20kgx25secsx4
+max incline forward sprinting 15inclinex20kphx10secsx2
+
+Week 3-Sunday-26-05-2024
+side sled 110kgx1
+tricep pushdown ,29.6kgx2, 30kgx2
+two leg seated hamstring curl 79kgx2
+iso wrist rotation 14kgx2
+iso barbell jefferson curl 65kgx15secs
+iso two legged leg press 39kgx15 secs
+iso tricep extension 30kgx15secs
+iso back extension one leg 20kgx15secs
+iso chin ups 25kgx15secs
+iso dumbbell shrug 42kgx15secs
+iso rear delt fly 9kgx15secs
+one arm hang 12kgx4secs
+running broad jump 2.75linesx4, 3 lines x2
+
+
+
+
+
+Week 4-Monday-27-05-2024
+front sled 147.5kgx1
+tricep pushdown 30.6kgx2x2
+hack squat(s) 50kgx2, 55kgx2
+barbell split jerk(p), 72.5kgx2 , 77.5kgx2 ( difficult )
+incline dumbbell press(s) 42kgx2x2 ( difficult )
+dumbbell sumo deadlift(p) 22kgx4x2
+banded neck rotation(s) greenbandx4x2
+single leg seated calf raise(p) 83.6kgx2, 86kgx2( increase rpm)
+max two arm hang 72.5kgx10secs
+two leg depth jump 12inch to 44inchx4x2 ( difficult - technique required ) - difficult failed
+
+Week 4-Tuesday-28-05-2024
+side sled 112.5kgx1
+tricep pushdown , 30kgx2x2
+peterson step up 67.5kg x2 ( improve form - do not progress)
+one leg iso nordic hamstring curl not found
+iso barbell front squat 55kgx15secs
+iso behind the neck press 55kgx15secs
+iso barbell bench press 75kgx15secs (failed )
+iso barbell romanian deadlift 65kgx15secs
+iso barbell wrist flexion 32.5kgx10secs ( increase ROM)
+iso barbell wrist curl 32.5kgx15secs
+iso two leg dumbbell tibialis raise 28kgx15swcs
+one arm hang 12kgx5secs
+max speed side sprinting 10.5kphx10secs,11.2kphx10secs
+
+Week 4-Wednesday-29-05-2024
+front sled 147.5kgx2
+tricep pushdown 30kgx2x2
+hanging leg raise(s) 5kgx2x2
+one arm dumbbell row(s) 46kgx2, 48kgx2 ( difficult )
+back barbell atg split squat(p) 52.5kgx2,55kgx2
+weighted pidgeon(p) 16kgx4x2 [both internal and external rotaiton]
+powel raise(s) 14kgx2, 16kgx2 ( difficult )
+medium two arm hang 30kgx20secs
+single leg depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 4-Thursday-30-05-2024
+front sled 147.5kgx2
+tricep pushdown ,30kgx2x2
+back barbell cossack squat(s)  62.5kgx2, 65kgx2 ( difficult)
+one legged leg press(p)  25kgx2,32kgx2
+dumbbell jefferson curl(s) 40kgx2, 42kgx2
+push ups(p) not found
+hip adductor machine(s) 76.4kgx2x2
+hip abduction machine(s) 76.4kgx2x2
+dumbbell ulnar deviation(p) 10kgx2x2
+dumbbell radial deviation(p) 10kgx2x2
+heavy two arm hang 37.5kgx15eecs ( difficult . Increase ROM)
+max incline backwards sprinting  12.2 kphx10secs,13kphx10secs (difficult )
+
+Week 4-Friday-31-05-2024
+side sled 112.5kgx1
+tricep overhead  30kgx2x2 (difficuly )
+iso peterson step up 30kgx20secs
+two leg lying hamstring curl 71.3kgx2
+iso reverse squat 34kgx20secs
+iso dumbbell pullover 28kgx20secs
+iso front barbell atg split squat 50kgx20secs
+iso weighted butterflys 42kgx15secs
+iso external dumbbell rotation 9kgx15secs
+one arm hang 12kgx5secs
+pjf lateral hop 20inchx12kgx4x2
+
+Week 4-Saturday-01-06-2024
+front sled 147.5kgx1
+tricep pushdown  30kgx2x2
+back extension one leg(s) 28kgx2x2
+reverse curl(p) 20kgx4x2
+barbell preacher curl(p) 20kgx4x2
+overhead walk(double)32kgx30secsx2 (failed second set )
+ab machine(p) not found
+front barbell shrug(s)  75kgx2, 80kgx2
+back barbell shrug(s) 75kgx2, 80kgx2
+row machine(p)  20kgx4x2
+light two arm hang 20kgx25secsx4
+max approach jumping 46inchx4x2
+
+Week 4-Sunday-02-06-2024
+side sled 112.5kgx1
+tricep overhead 30kgx2x2
+one leg seated hamstring curl 35.4kgx2
+iso back barbell cossack squat 47.5kgx15secs
+iso one legged leg extension 34.3kgx20secs
+iso dumbbell jefferson curl 42kgx15secs
+iso push ups 25kgx15secs
+iso hip adductor machine 68kgx15secs
+iso hip abduction machine 68kgx20secs
+iso dumbbell ulnar deviation 20kgx20secs
+iso dumbbell radial deviation 20kgx20secs(increase rom)
+iso back extension one leg 20kgx15secs
+iso reverse curl 32.5kgx20secs (failed )
+iso barbell preacher curl 40kgx15secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 42kgx20secs ( difficult)
+iso row machine 37.5kgx15secs
+one arm hang 12kgx5secs
+alternate bounding 5hopsx2 [each leg]
 # Plan is to go in reverse and get sentences corresponding to the the specific value and then choose it by hand
+
+
+
+Week 5-Monday-03-06-2024
+front sled 150kgx1
+tricep pushdown  30kgx2, 31kgx2
+dumbbell jump squat(p) 44kgx2x2
+behind the neck press(s) 57.5kgx2, 60kgx2 (difficult)
+barbell bench press(p) 60kgx4x2
+barbell romanian deadlift(s) 110kgx2, 115kgx2
+barbell wrist flexion(p) 20kgx3x 22.5kgx2
+barbell wrist curl(p) 22.5kgx2
+two leg dumbbell tibialis raise(s) 42kgx2,x2 (lower weight)
+max two arm hang 73.75kgx10secsx4
+two leg hops 27.5kgx4x3
+
+Week 5-Tuesday-04-06-2024
+side sled 115kgx1
+tricep pushdown  30kgx2, 31kgx2
+peterson step up 32.5kgx15secs
+two leg nordic hamstring curl greenbandx2 6inch box
+iso barbell back squat 52.5kgx15secs
+iso dumbbell press 26kgx15secs
+iso dumbbell bench press 38kgx15secs
+iso dumbbell romanian deadlift 38kgx15secs
+iso dumbbell wrist flexion 14kgx25secs
+iso dumbbell wrist curl 14kgx25secs(
+iso one leg tibialis raise 38kgx15secs
+one arm hang 14kgx3swcs
+max incline forward sprinting 15inclinex20kphx10secsx2
+
+Week 5-Wednesday-05-06-2024
+front sled 150kgx1
+tricep pushdown  30kgx2, 31kgx2
+two legged reverse squat(p) 35kgx2x2
+dumbbell pullover(p) 14kgx4x2
+front barbell atg split squat(s) 55kgx2, 60kgx2
+weighted butterflys(s) 36kgx2x2
+external dumbbell rotation(p) 6kgx4x2
+medium two arm hang 30kgx20secsx4
+standing single leg box jump 36inchx4[no step] x2 ( difficult )
+
+Week 5-Thursday-06-06-2024
+front sled 150kgx1
+tricep pushdown  30kgx2, 31kgx2
+front barbell cossack squat(s) 55kgx2,60kgx2
+one legged leg extension(s)48.4kgx2, 52kgx2
+penlay row(p) 90kgx2x2
+french press(s) 35kgx2x2 (failed second set )
+hip external and internal rotation(p) 14kgx2x2
+barbell shoulder rotation(s) 5kgx4(wide) , 5kgx2
+heavy two arm hang 37.5kgx15eecs ( difficult . increase rom)
+max speed side sprinting 10.5kphx10secs,11.2kphx10secs
+
+Week 5-Friday-07-06-2024
+side sled 115kgx1
+tricep overhead 30kgx2, 31kgx2
+peterson step up 65kgx2
+one leg lying hamstring curl 38.3kgx2 
+iso one leg reverse squat 23.8kgx25secs (difficult)
+iso pull ups 26.25kgx20secs
+iso dumbbell atg split squat 56kgx20secs
+iso cable pancake 30.4kgx20secs ( increase rom)
+iso atg dumbbell external rotation 14kgx15secs (difficult)
+one arm hang 14kgx3secs (difficult )
+two leg depth drop  54inchx4x2
+
+Week 5-Saturday-08-06-2024
+front sled 150kgx1
+tricep pushdown  30kgx2, 31kgx2
+two legged hip thrust(p) 80kgx2x2
+barbell curl(s) 52.5kgx2, 55kgx2
+side farmer walk(single) 42kgx30secsx2 (difficult)
+landmine rotation(s) 52.5kgx2, 53.75kgx2
+trap 3 raise(p) 6kgx2
+dumbbell fly(s) 16kgx2x2
+light two arm hang 20kgx25secsx4
+max incline backward sprinting 11.5kphx10secs, 12kphx10secs
+
+Week 5-Sunday-09-06-2024
+side sled 112.5kgx1
+tricep pushdown  30kgx2x2
+two leg iso seated hamstring curl 41.3kgx15secs
+iso dumbbell cossack squat 36kgx15secs
+iso two legged leg extension 54kgx15secs
+iso seated good morning 52.5kgx15secs
+iso dips 6.25kgx15secs
+iso cable hip adduction 14kgx15secs
+iso cable hip abduction 12kgx15secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 52.5kgx15secs
+iso incline dumbbell curl 24kgx15secs
+iso incline dumbbell hammer curl 24kgx15secs (difficult )
+iso ql extension 38kgx15secs
+iso lateral dumbbell raise 12kgx20secs (difficult)
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 26.1kgx15secs
+one arm hang 12kgx5secs
+standing broad jump 2rowx4, 2 and 1/4 rows x 4
+
+
+
+Week 6-Monday-10-06-2024
+front sled 152.5kgx1
+tricep pushdown  31kgx2x2
+barbell front squat(s) 90kgx2, 92.5kgx2 (difficult)
+behind the neck push press(p) 60kgx2, 62.5kgx2
+barbell bench press(s) 95kgx2, 97.5kgx2 (difficult)
+barbell romanian deadlift(p) 92.5kgx2,97.5kgx2
+barbell wrist flexion(s) 27.5kgx2, 30kgx2( increase rom)
+barbell wrist flexion(s) 27.5kgx2, 30kgx2( increase rom)
+two leg dumbbell tibialis raise(p) 28kgx4x2
+max two arm hang 73.75kgx10secsx4
+two legged box jump 42inchx4 [step before jumping-redo] 45inchx4 ( no step )
+
+Week 6-Tuesday-11-06-2024
+side sled 117.5kgx1
+tricep pushdown  31kgx2x2
+peterson step up 67.5kgx2
+one leg nordic hamstring curl 30inch x2
+iso reverse nordic 0kgx20secs [difficult]
+iso incline barbell press 65kgx20secs
+iso barbell deadlift 65kgx20secs
+iso banded neck sides greenbandx4
+iso single leg standing calf raise 80kgx20secs
+one arm hang 14kgx3secs
+max approach jumping 46inchx4x2
+
+Week 6-Wednesday-12-06-2024
+front sled 152.5kgx1
+tricep pushdown  31kgx2x2
+two legged reverse squat(s) 31kgx2, 39kgx2 ( increase ROM)
+dumbbell pullover(s) 36kgx2, 38kgx2 (difficult)
+front barbell atg split squat(p) 50kgx2,55kgx2 (difficult)
+weighted butterflys(p) 20kgx4x2
+external dumbbell rotation(s) 9kgx2 x2
+medium two arm hang 30kgx20secsx4
+single leg hop 40kgx4x2
+
+Week 6-Thursday-13-06-2024
+front sled 152.5kgx1
+tricep pushdown  31kgx2x2
+front barbell cossack squat(s) 60kgx2x2
+one legged leg extension(p) not found
+barbell back row(s) 80kgx2, 85kgx2
+french press(p) 30kgx2, 32.5kgx2
+hip external and internal rotation(s) 16kgx2x2
+barbell shoulder rotation(p) 5kgx4x2
+heavy two arm hang 37.5kgx15eecs ( difficult . increase rom)
+max speed backwards sprinting - 18.3kphx10secs, 18.9kphx10secs
+
+Week 6-Friday-14-06-2024
+side sled 117.5kgx1
+tricep pushdown  31kgx2x2
+peterson iso step up 30kgx20secs
+two leg iso lying hamstring curl 50kgx20secs
+iso single leg monkey foot 20kgx20secs ( difficuly increase ROM)
+iso lat pull down machine 59kgx15secs
+iso pistol squat 3kgx15secs
+iso 90-90 hip push press 14kgx20secs
+iso cable external rotation 7kgx15secs 
+one arm hang 14kgx3secs
+single lateral jump 2linesx4
+
+Week 6-Saturday-15-06-2024
+front sled 152.5kgx1
+tricep pushdown  31kgx2x2
+two legged hip thrust(s) 150kgx2, 160kgx2
+barbell curl(p) 35kgx4x2
+side farmer walk(double) 42kgx30secsx2
+landmine rotation(p) 50kgx2, 52kgx2
+trap 3 raise(s) 9kgx2,10kgx2(diffiicult)
+dumbbell fly(p) 8kgx4x2
+light two arm hang 20kgx25secsx4
+depth drop  54inchx4, (54inchx2 +57inchx2)
+max incline side sprinting   8.3kphx10secs,8.8kphx10secs
+
+Week 6-Sunday-16-06-2024
+side sled 112.5kgx1
+tricep pushdown  30kgx2x2
+iso two legged leg press 39kgx15 secs
+iso wrist rotation 14kgx2
+one leg iso seated hamstring curl 27kgx15secs
+iso barbell jefferson curl 65kgx15secs
+iso tricep extension 30kgx15secs
+iso back extension one leg 20kgx15secs
+iso chin ups 25kgx15secs
+iso dumbbell shrug 42kgx20secs ( difficult)
+iso rear delt fly 9kgx15secs
+one arm hang 12kgx5secs
+bounding 5hopsx2 [each leg]
+
+
+
+Week 7-Monday-17-06-2024
+front sled 155kgx1
+tricep pushdown  31kgx2,32kgx2
+squat clean(p) - 60kgx2, 70kgx2(difficult)
+landmine split jerk(p) 55kgx2, 56.25kgx2 (difficult failed )
+incline barbell press(p) 80kgx2, 85kgx2
+barbell deficit deadlift(s)85kgx2, 90kgx2
+banded neck sides(p) greenbandx4x2
+single leg standing calf raise(s)  70kgx2
+max two arm hang 75kgx10secs
+sitting box jump 42inchx4, 45inch (12inch box - perform again cleaner )
+
+Week 7-Tuesday-18-06-2024
+side sled 115kgx2
+tricep overhead  31kgx2x2
+iso hack squat 35kgx15secs (difficult)
+two leg iso nordic hamstring curl - 6 holes remaining
+iso barbell military press 57.5kgx15secs
+iso incline dumbbell press 34secsx15secs
+iso dumbbell sumo deadlift 38kgx15secs
+iso banded neck rotiation blackbandx25secs
+iso single leg seated calf raise 80kgx15secs
+one arm hang 14kgx4secs
+max speed backwards sprinting - 18.9kphx10secs, 19.2kphx10secs
+
+Week 7-Wednesday-19-06-2024
+front sled 155kgx1
+tricep pushdown  31kgx2, 32kgx1
+single leg monkey foot(p) 8kgx2x2
+lat pull down machine(p) 59kgx2,66kgx2
+pistol squat(s) 14kgx2, 16kgx2
+90-90 hip push press(s) 22kgx2x2
+cable external rotation(p) 8kgx2,9.25kgx2 [difficuly]
+medium two arm hang 31.25kgx20secsx4
+sitting single leg box jump 12inch to 36inchx4 24inch to 39 inch x4 ( difficult )
+
+Week 7-Thursday-20-06-2024
+front sled 155kgx2
+tricep pushdown  30kgx2x2
+two legged leg press(s) 109.3kgx2, 113kgx2
+barbell jefferson curl(p)  75kgx2, 77.5kgx2(difficult)
+tricep extension(s) 45kgx2x2 (difficult - do not go up(
+lateral step up(p) 42kgx2 24inch ,44kgx2 to 24 inch
+wrist rotation(s) , 16kgx2x2(difficult - increase ROM)
+heavy two arm hang 37.5kgx15eecs ( difficult . increase rom)
+max incline side sprinting   8.3kphx10secs,8.8kphx10secs
+
+Week 7-Friday-21-06-2024
+side sled 112.5kgx1
+tricep overhead 30kgx2x2
+peterson iso step up 30kgx20secs
+one leg iso lying hamstring curl 36kgx20secs
+iso hanging leg raise 3kgx15secs (increase rom)
+iso one arm dumbbell row 40kgx15secs
+iso back barbell atg split squat 50kgx15secs
+iso weighted pidgeon 34kgx15secs
+iso powel raise 12kgx20secs ( difficult)
+one arm hang 14kgx4secs
+single leg depth drop 42inch x4x2 (difficult)
+
+Week 7-Saturday-22-06-2024
+front sled 155kgx2
+tricep pushdown  30kgx2x2
+back extension(p) 45kgx2x2
+chin ups(s) 32.5kgx2x2
+side overhead walk(single) 40kg x30 secs x2 
+dumbbell shrug(p) 40kgx2,44kgx2
+rear delt fly(s) 8kg x2, 9kgx2
+light two arm hang 20kgx25secsx4
+max incline forward sprinting 15inclinex20kphx10secsx2
+
+Week 7-Sunday-23-06-2024
+side sled 112.5kgx1
+tricep pushdown  30kgx2x2
+two leg seated hamstring curl 81.3kgx2 (difficult)
+iso back barbell cossack squat 47.5kgx20secs
+iso one legged leg press 32kgx15secs
+iso dumbbell jefferson curl 42kgx20secs (difficuly - work on concentric)
+iso push ups 25kgx15secs
+iso hip adductor machine 68kgx20secs
+iso hip abduction machine 69kgx15secs
+iso dumbbell ulnar deviation 20kgx20secs
+iso dumbbell radial deviation 20kgx20secs(increase rom)
+iso back extension one leg 20kgx20secs
+iso reverse curl 32.5kgx20secs
+iso barbell preacher curl 40kgx20secs
+iso ab machine 40kgx15secs (difficult)
+iso dumbbell shrug 44kgx15secs
+iso row machine 37.5kgx20secs
+one arm hang 12kgx5secs
+running broad jump 2.75linesx4, 3 lines x2
+
+
+Week 8-Monday-24-06-2024
+front sled 157.5kgx2
+tricep pushdown  30kgx2x2
+reverse nordic(s) 0kgx2x2
+incline barbell press(s) 90kgx2x2
+barbell deadlift(s) 145kgx2, 155kgx2
+banded neck sides(s) greenbandx4x2
+single leg standing calf raise(p) 70kgx2
+max two arm hang 75kgx10secs
+depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Tuesday-25-06-2024
+side sled 115kgx1
+tricep pushdown  30kgx2x2
+peterson step up 70kgx2 ( difficult)
+one leg iso nordic hamstring curl not found
+iso barbell back squat 52.5kgx20secs
+iso barbell military press 57.5kgx20secs
+iso dumbbell bench press 38kgx20secs
+iso dumbbell romanian deadlift 38kgx15secs
+iso dumbbell wrist flexion 16kgx15secs
+iso dumbbell wrist curl 16kgx15secs
+iso one leg tibialis raise 38kgx20secs
+one arm hang 14kgx4secs
+max speed side sprinting ,11.2kphx10secs, 12.2kphx10secs
+
+Week 8-Wednesday-26-06-2024
+front sled 157.5kgx1
+tricep pushdown  30kgx2x2
+single leg monkey foot(s) 20kgx2, 24kgx1 (difficult)
+lat pull down machine(s)  73kgx2, 79kgx2 ( difficult - increase ROM)
+pistol squat(p) 5kgx2, 6kgx2
+90-90 hip push press(p) 20kgx4x2
+cable external rotation(s) 9.25kgx2x2
+medium two arm hang 31.25kgx20secsx4
+single leg depth jump 20inch to 36inchx4x2(difficult but doable - progress )
+
+Week 8-Thursday-27-06-2024
+front sled 157.5kgx1
+tricep pushdown  30kgx2x2
+two legged leg press(p) 107kgx2, 110.4kgx2
+barbell jefferson curl(s)  85kgx2 , 87.5kgx2 (difficult)
+muscle up(p) 0kg [failed attempts]
+lateral step up(s) 46kgx2 to 24inch x2 x2 
+wrist rotation(p) 16kgx2x2 (difficult,increase rom)
+heavy two arm hang 37.5kgx15eecs ( difficult . increase rom)
+max incline backwards sprinting  13kphx10secs, 13.2kphx10secs (difficult )
+
+Week 8-Friday-28-06-2024
+side sled 112.5kgx1
+tricep pushdown  30kgx2x2
+peterson iso step up 30kgx20secs
+two leg lying hamstring curl 71.3kgx2
+iso one leg reverse squat 23.8kgx25secs (difficult)
+iso pull ups 26.25kgx20secs
+iso dumbbell atg split squat 56kgx20secs
+iso cable pancake 30.4kgx20secs ( increase rom)
+iso atg dumbbell external rotation 14kgx15secs (difficult)
+one arm hang 12kgx5secs
+pjf lateral hop 20inchx12kgx4x2
+
+Week 8-Saturday-29-06-2024
+front sled 157.5kgx1
+tricep pushdown  30kgx2x2
+back extension(s) 50kgx1x2 (difficult)
+chin ups(p) 31.25kgx2
+side overhead walk(double)32kgx30secs, 34kgx30secs ( difficult)
+dumbbell shrug(s) 48kgx2 , 50kgx2
+rear delt fly(p) 8kgx2, 9kgx2
+light two arm hang 20kgx25secsx4
+max approach jumping 46inchx4x2
+
+Week 8-Sunday-30-06-2024
+side sled 115kgx1
+tricep pushdown  30kgx2x2
+one leg seated hamstring curl 37kgx2
+iso dumbbell cossack squat 36kgx20secs
+iso two legged leg extension 54kgx20secs
+iso seated good morning 52.5kgx20secs
+iso dips 6.25kgx15secs
+iso cable hip adduction 14kgx15secs
+iso cable hip abduction 12kgx15secs
+iso neck upwards 10kgx20secs
+iso neck downwards 10kgx20secs
+iso one leg hip thrust 52.5kgx20secs (fail on left leg )
+iso incline dumbbell curl 22kgx15secs
+iso incline dumbbell hammer curl 22kgx15secs
+iso ql extension 40kgx15secs
+iso lateral dumbbell raise 12kgx15secs
+iso frontal raise 10kgx15secs [ difficult]
+iso face pulls 26.1kgx15secs
+one arm hang 12kgx5secs
+alternate bounding 5hopsx2 [each leg]
 
 
