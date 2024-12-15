@@ -33,9 +33,10 @@ def fill_exercise_day_info(exercise_day,recent_exercises):
 
 #print(exercises['Monday'])
 
+# Week 1 and Week 5 are related
+# Week 2 and 3 are related
 
-
-weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Barbell Back Squat(p)','Standing Dumbbell Press(s)','Dumbbell Romanian Deadlift(s)','Two Leg Tibialis Raise(s)', 'Max Two Arm Hang'],
+weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Barbell Back Squat(s)','Standing Dumbbell Press(s)','Dumbbell Romanian Deadlift(s)','Two Leg Tibialis Raise(s)', 'Max Two Arm Hang'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Peterson Step Up','Two Leg Nordic Hamstring Curl','Iso Barbell Front squat','Iso Behind The Neck Press','Iso Barbell Bench Press','Iso Barbell Romanian Deadlift', 'Iso Barbell Wrist Flexion','Iso Barbell Wrist Curl','Iso Two Leg Dumbbell Tibialis Raise', 'One arm Hang','Standing Broad Jump'],
 
@@ -47,11 +48,11 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Incline Dumbbell Curl(s)','Farmer Walk(Single)','Lateral Dumbbell Raise(s)','Face Pulls(s)','Light Two Arm Hang','Max Incline Backward Sprinting'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','Two Leg Iso Seated Hamstring Curl','Iso Front Barbell Cossack Squat','Iso One Legged Leg Extension','Iso Barbell Back Row', 'Iso French Press','Iso Hip External and Internal Rotation',
+                            'Sunday':['Tricep Overhead','Two Leg Iso Seated Hamstring Curl','Iso Front Barbell Cossack Squat','Iso One Legged Leg Extension','Iso Barbell Back Row', 'Iso French Press','Iso Hip External and Internal Rotation',
                                        'Iso Two Legged Hip Thrust','Iso Barbell Curl','Iso Landmine Rotation','Iso Trap 3 Raise','Iso Dumbbell Fly']
                             },
 
-                    'Week 2':{'Monday':['Front Sled','Tricep Pushdown','Barbell Back Squat(s)','Barbell Push Press(p)','Dumbbell Bench Press(s)','Dumbbell Wrist Flexion(s)','Dumbbell Wrist Curl(s)', 'Max Two Arm Hang','Two Legged Box Jump'],
+                    'Week 2':{'Monday':['Front Sled','Tricep Pushdown','Barbell Front Squat(s)','Barbell Push Press(p)','Dumbbell Bench Press(s)','Dumbbell Wrist Flexion(s)','Dumbbell Wrist Curl(s)', 'Max Two Arm Hang','Two Legged Box Jump'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Peterson Step Up','Single Leg Nordic Hamstring Curl','Iso Hack Squat','Iso Barbell Military Press','Iso Incline Dumbbell Press','Iso Dumbbell Sumo Deadlift', 'Iso Banded neck rotiation','Iso Single Leg Seated Calf Raise', 'One Arm Hang','Max Approach Jumping'],
 
@@ -63,8 +64,8 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','One Leg Hip Thrust(s)','Incline Dumbbell Hammer Curl(s)','Farmer Walk(Double)','QL extension(s)','Frontal Raise(s)','Light Two Arm Hang','Max Incline Side Sprinting'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','One Leg Iso Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Press','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
-                                      'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Dumbbell Shrug','Iso Row Machine']
+                            'Sunday':['Tricep Overhead','One Leg Iso Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Press','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
+                                      'Iso Back Extension One Leg','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Trapbar Shrug','Iso Row Machine']
                             },
 
                         'Week 3':{'Monday':['Front Sled','Tricep Pushdown','Power Clean(p)','Barbell Military Press(s)','Dumbbell Sumo Deadlift(s)','Single Leg Seated Calf Raise(s)', 'Max Two Arm Hang','Sitting Box Jump'],
@@ -79,7 +80,7 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Reverse Curl(s)','Barbell Preacher Curl(s)','Overhead Walk(Single)','Ab Machine(s)','Row Machine(s)', 'Light Two Arm Hang'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','Two Leg Seated Hamstring Curl','Iso Wrist Rotation','Iso Barbell Jefferson Curl','Iso Two Legged Leg Press', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Dumbbell Shrug','Iso Rear Delt Fly']
+                            'Sunday':['Tricep Overhead','Two Leg Seated Hamstring Curl','Iso Reverse Curl','Iso Wrist Rotation','Iso Barbell Jefferson Curl','Iso Two Legged Leg Press', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Trapbar Shrug','Iso Rear Delt Fly']
                             },
 
                         'Week 4':{'Monday':['Front Sled','Tricep Pushdown','Hack Squat(s)','Barbell Split Jerk(p)','Incline Dumbbell Press(s)', 'Two Leg Dumbbell Tibialis Raise(s)','Banded Neck Rotation(s)', 'Max Two Arm Hang','Two Leg Depth Jump'],
@@ -94,12 +95,12 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Back Extension One Leg(s)','Overhead Walk(Double)','Front Barbell Shrug(s)','Back Barbell Shrug(s)','Light Two Arm Hang','Alternate Bounding'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','One Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Extension','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
-                                      'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Dumbbell Shrug','Iso Row Machine']
+                            'Sunday':['Tricep Overhead','One Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Extension','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
+                                      'Iso Back Extension One Leg','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Trapbar Shrug','Iso Row Machine']
                             },
 
 
-                        'Week 5':{'Monday':['Front Sled','Tricep Pushdown','Dumbbell Jump Squat(p)','Behind The Neck Press(s)','Barbell Romanian Deadlift(s)','Two Leg Standing Calf Raise(s)', 'Max Two Arm Hang','Standing Broad Jump'],
+                        'Week 5':{'Monday':['Front Sled','Tricep Pushdown','Barbell Back Squat(s)','Behind The Neck Press(s)','Barbell Romanian Deadlift(s)','Two Leg Standing Calf Raise(s)', 'Max Two Arm Hang','Standing Broad Jump'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Peterson Step Up','Two Leg Nordic Hamstring Curl','Iso Barbell Back Squat','Iso Dumbbell Press','Iso Dumbbell Bench Press','Iso Dumbbell Romanian Deadlift','Iso Dumbbell Wrist Flexion','Iso Dumbbell Wrist Curl','Iso One Leg Tibialis Raise', 'One Arm Hang'],
 
@@ -111,12 +112,12 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Barbell Curl(s)','Side Farmer Walk(Single)','Landmine Rotation(s)','Dumbbell Fly(s)','Light Two Arm Hang','Max Incline Backward Sprinting'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','Two Leg Iso Seated Hamstring Curl','Iso Dumbbell Cossack Squat','Iso Two legged Leg extension','Iso Seated Good Morning', 'Iso Dips','Iso Cable Hip Adduction','Iso Cable Hip Abduction','Iso Neck Upwards','Iso Neck Downwards',
-                                      'Iso One Leg Hip Thrust','Iso Incline Dumbbell Curl','Iso Incline Dumbbell Hammer Curl','Iso QL extension','Iso Lateral Dumbbell Raise','Iso Frontal Raise','Iso Face Pulls'],
+                            'Sunday':['Tricep Overhead','Two Leg Iso Seated Hamstring Curl','Iso Dumbbell Cossack Squat','Iso Two legged Leg extension','Iso Seated Good Morning', 'Iso Dips','Iso Cable Hip Adduction','Iso Cable Hip Abduction','Iso Neck Upwards','Iso Neck Downwards',
+                                      'Iso One Leg Hip Thrust','Iso Incline Dumbbell Curl','Iso QL extension','Iso Lateral Dumbbell Raise','Iso Face Pulls'],
                             },
 
 
-                        'Week 6':{'Monday':['Front Sled','Tricep Pushdown','Barbell Front Squat(s)','Behind The Neck Push Press(p)','Barbell Bench Press(s)', 'Barbell Wrist Flexion(s)','Barbell Wrist Flexion(s)', 'Max Two Arm Hang','Two Legged Box Jump'],
+                        'Week 6':{'Monday':['Front Sled','Tricep Pushdown','Barbell Front Squat(s)','Behind The Neck Push Press(p)','Barbell Bench Press(s)', 'Barbell Wrist Flexion(s)','Barbell Wrist Curl(s)', 'Max Two Arm Hang','Two Legged Box Jump'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Peterson Step Up','One Leg Nordic Hamstring Curl','Iso Reverse Nordic','Iso Incline Barbell Press','Iso Barbell Deadlift', 'Iso Banded Neck Sides','Iso Single Leg Standing Calf Raise', 'One Arm Hang','Max Approach Jumping'],
 
@@ -128,12 +129,12 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Two Legged Hip Thrust(s)','Side Farmer Walk(Double)','Trap 3 Raise(s)','Light Two Arm Hang','Depth Drop','Max Incline Side Sprinting'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','Iso Two Legged Leg Press','Iso Wrist Rotation','One Leg Iso Seated Hamstring Curl','Iso Barbell Jefferson Curl', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Dumbbell Shrug','Iso Rear Delt Fly']
+                            'Sunday':['Tricep Overhead','Iso Two Legged Leg Press','Iso Reverse Curl','Iso Wrist Rotation','One Leg Iso Seated Hamstring Curl','Iso Barbell Jefferson Curl', 'Iso Tricep Extension','Iso Back Extension','Iso Chin Ups','Iso Dragon Flag','Iso Trapbar Shrug','Iso Rear Delt Fly']
                             },
 
 
 
-                        'Week 7':{'Monday':['Front Sled','Tricep Pushdown','Squat Clean(p)','Landmine Split Jerk(p)','Barbell Deficit Deadlift(s)', 'Banded Neck Sides(p)','Single Leg Standing Calf Raise(s)', 'Max Two Arm Hang','Sitting Box Jump'],
+                        'Week 7':{'Monday':['Front Sled','Tricep Pushdown','Squat Clean(p)','Seated Dumbbell Press(s)','Barbell Deficit Deadlift(s)', 'Banded Neck Sides(p)','Single Leg Standing Calf Raise(s)', 'Max Two Arm Hang','Sitting Box Jump'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Iso Hack Squat','Two Leg Iso Nordic Hamstring Curl','Iso Barbell Military Press','Iso Incline Dumbbell Press','Iso Dumbbell Sumo Deadlift', 'Iso Banded neck rotiation','Iso Single Leg Seated Calf Raise', 'One Arm Hang','Max Incline Backwards Sprinting'],
 
@@ -145,11 +146,11 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Saturday':['Front Sled','Tricep Pushdown','Chin Ups(s)','Side Overhead Walk(Single)','Rear Delt Fly(s)','Light Two Arm Hang'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','Two Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Press','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
-                                      'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Dumbbell Shrug','Iso Row Machine', 'One Arm Hang','Running Broad Jump']
+                            'Sunday':['Tricep Overhead','Two Leg Seated Hamstring Curl','Iso Back Barbell Cossack Squat','Iso One Legged Leg Press','Iso Dumbbell Jefferson Curl', 'Machine Iso Chest Press','Iso Hip Adductor Machine','Iso Hip Abduction Machine','Iso Dumbbell Ulnar Deviation','Iso Dumbbell Radial Deviation',
+                                      'Iso Back Extension One Leg','Iso Reverse Curl','Iso Barbell Preacher Curl','Iso Ab Machine','Iso Trapbar Shrug','Iso Row Machine']
                             },
 
-                        'Week 8':{'Monday':['Front Sled','Tricep Pushdown','Reverse Nordic(s)','Lateral Landmine Split Jerk(p)','Incline Barbell Press(s)','Barbell Deadlift(s)', 'Banded Neck Sides(s)', 'Max Two Arm Hang','Depth Jump'],
+                        'Week 8':{'Monday':['Front Sled','Tricep Pushdown','Reverse Nordic(s)','Landmine Split Jerk(p)','Incline Barbell Press(s)','Barbell Deadlift(s)', 'Banded Neck Sides(s)', 'Max Two Arm Hang','Depth Jump'],
 
                             'Tuesday':['Side Sled','Tricep Overhead','Peterson Step Up','One Leg Iso Nordic Hamstring Curl','Iso Barbell Back Squat','Iso Barbell Military Press','Iso Dumbbell Bench Press','Iso Dumbbell Romanian Deadlift','Iso Dumbbell Wrist Flexion','Iso Dumbbell Wrist Curl','Iso One Leg Tibialis Raise', 'One Arm Hang','Max Speed Side Sprinting'],
 
@@ -159,10 +160,10 @@ weekly_exercises = {'Week 1':{'Monday':['Front Sled','Tricep Pushdown','Jump Bar
 
                             'Friday':['Side Sled','Tricep Overhead','Peterson Iso Step Up','Two Leg Lying Hamstring Curl','Iso One Leg Reverse Squat','Iso Pull Ups','Iso Dumbbell ATG Split Squat','Iso Cable Pancake','Iso ATG Dumbbell External Rotation','One Arm Hang','PJF Lateral Hop'],
 
-                            'Saturday':['Front Sled','Tricep Pushdown','Back Extension Two Leg(s)','Side Overhead Walk(Double)','Dumbbell Shrug(s)','Light Two Arm Hang','Max Approach Jumping'],
+                            'Saturday':['Front Sled','Tricep Pushdown','Back Extension Two Leg(s)','Side Overhead Walk(Double)','Trapbar Shrug(s)','Light Two Arm Hang','Max Approach Jumping'],
 
-                            'Sunday':['Side Sled','Tricep Overhead','One Leg Seated Hamstring Curl','Iso Dumbbell Cossack Squat','Iso Two legged Leg Extension','Iso Seated Good Morning', 'Iso Dips','Iso Cable Hip Adduction','Iso Cable Hip Abduction','Iso Neck Upwards','Iso Neck Downwards',
-                                      'Iso One Leg Hip Thrust','Iso Incline Dumbbell Curl','Iso Incline Dumbbell Hammer Curl','Iso QL extension','Iso Lateral Dumbbell Raise','Iso Frontal Raise','Iso Face Pulls','One Arm Hang','Alternate Bounding'],
+                            'Sunday':['Tricep Overhead','One Leg Seated Hamstring Curl','Iso Dumbbell Cossack Squat','Iso Two legged Leg Extension','Iso Seated Good Morning', 'Iso Dips','Iso Cable Hip Adduction','Iso Cable Hip Abduction','Iso Neck Upwards','Iso Neck Downwards',
+                                      'Iso One Leg Hip Thrust','Iso Incline Dumbbell Hammer Curl','Iso QL extension','Iso Frontal Raise','Iso Face Pulls'],
 
                             },
 
@@ -182,7 +183,7 @@ content = content.lower() # Remove capitalization
 
 day = 'Sunday'
 week = 'Week 8'
-start_date = '2024-10-14'
+start_date = '2024-12-09'
 weekly=True
 '''
 start_date = datetime.date.fromisoformat('2019-12-04')
